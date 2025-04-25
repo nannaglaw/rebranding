@@ -21,9 +21,10 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body>
+<body class="bg-wh">
 
 <h1>Det virker 🥳!!!!</h1>
+<div class="bg-wh">HEJ</div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
