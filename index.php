@@ -16,12 +16,12 @@ require "settings/init.php";
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
     
-    <link href="css/styles.scss" rel="stylesheet" type="text/css">
+    <link href="css/styles.scss" rel="stylesheet">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-db">
+<body class="bg-lb">
 
 
 
