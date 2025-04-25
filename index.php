@@ -17,14 +17,15 @@ require "settings/init.php";
     <meta name="copyright" content="Information om copyright">
     
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    
+    <link src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" rel="stylesheet">
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body class="bg-wh">
 
 <h1>Det virker 🥳!!!!</h1>
-<div class="bg-wh">HEJ</div>
+<div class="bg-lb">HEJ</div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
