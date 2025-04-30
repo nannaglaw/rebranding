@@ -24,6 +24,24 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 // 5. Du kan lave styling her...
 
 /* Fjern default border fra navbar på små skærme */
+
+@font-face {
+  font-family: 'Zodiak-Variable';
+url('../fonts/Zodiak-Variable.woff') format('woff'),
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Zodiak-VariableItalic';
+  url('../fonts/Zodiak-VariableItalic.woff') format('woff'),
+
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: italic;
+}
+
 .navbar.custom-border {
   border: none;
   border-top: none;
@@ -37,4 +55,3 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
     border-bottom: 2px solid #2A1813;
   }
 }
-
