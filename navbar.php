@@ -15,13 +15,13 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="navbar-nav text-center">
                 <li class="nav-item px-5 mx-5 ">
-                    <a class="nav-link text-dark" href="#">BEHANDLINGER</a>
+                    <a class="nav-link text-dark" href="behandlinger.php">BEHANDLINGER</a>
                 </li>
                 <li class="nav-item px-5 mx-5">
-                    <a class="nav-link text-dark" href="#">PRISLISTE</a>
+                    <a class="nav-link text-dark" href="prisliste.php">PRISLISTE</a>
                 </li>
                 <li class="nav-item px-5 mx-5">
-                    <a class="nav-link text-dark" href="#">OM THEIA</a>
+                    <a class="nav-link text-dark" href="omTheia.php">OM THEIA</a>
                 </li>
             </ul>
         </div>
