@@ -14,7 +14,7 @@
 
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="navbar-nav text-center">
-                <li class="nav-item px-5 mx-5">
+                <li class="nav-item px-5 mx-5 ">
                     <a class="nav-link text-dark" href="#">BEHANDLINGER</a>
                 </li>
                 <li class="nav-item px-5 mx-5">

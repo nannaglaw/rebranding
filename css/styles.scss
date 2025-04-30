@@ -7,6 +7,8 @@ $link-decoration: none;
 // 3. Include remainder of required Bootstrap stylesheets
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/variables-dark";
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 
 
 // 4. Include any default map overrides here
@@ -23,11 +25,11 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 // 5. Du kan lave styling her...
 
-/* Fjern default border fra navbar på små skærme */
-
 @font-face {
   font-family: 'Zodiak-Variable';
-url('../fonts/Zodiak-Variable.woff') format('woff'),
+  src: url('../fonts/Zodiak-Variable.woff2') format('woff2'),
+  url('../fonts/Zodiak-Variable.woff') format('woff'),
+  url('../fonts/Zodiak-Variable.ttf') format('truetype');
   font-weight: 100 900;
   font-display: swap;
   font-style: normal;
@@ -35,20 +37,27 @@ url('../fonts/Zodiak-Variable.woff') format('woff'),
 
 @font-face {
   font-family: 'Zodiak-VariableItalic';
+  src: url('../fonts/Zodiak-VariableItalic.woff2') format('woff2'),
   url('../fonts/Zodiak-VariableItalic.woff') format('woff'),
-
+  url('../fonts/Zodiak-VariableItalic.ttf') format('truetype');
   font-weight: 100 900;
   font-display: swap;
   font-style: italic;
 }
 
-.navbar.custom-border {
-  border: none;
-  border-top: none;
-  border-bottom: none;
+.navbar{
+  font-family: Lato;
+
 }
 
-/* Fra md og op, tilføj din ønskede border */
+@media (max-width: 767.98px) {
+  .navbar.custom-border {
+    border: 0 !important;
+    box-shadow: none !important;
+  }
+}
+
+
 @media (min-width: 768px) {
   .navbar.custom-border {
     border-top: 2px solid #2A1813;
