@@ -1,30 +1,30 @@
 
 <link href="css/styles.css" rel="stylesheet">
-<a class="" href="index.php"><img src="img/LogoTheia.webp" class="img-fluid mx-auto d-block" style="max-width:25%;"></a>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-<nav class="navbar navbar-expand-lg bg-wh">
-    <div class="container-fluid">
-
-        <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<div class="bg-wh">
+<a href="index.php"><img src="img/LogoTheia.webp" class="img-fluid mx-auto d-block pb-3" style="max-width:25%;"></a>
+</div>
+<nav class="navbar custom-border navbar-expand-lg bg-wh ms-5 me-5">
+    <div class="container justify-content-center">
+        <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+            <ul class="navbar-nav text-center">
+                <li class="nav-item px-5 mx-5">
+                    <a class="nav-link text-dark" href="#">BEHANDLINGER</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Features</a>
+                <li class="nav-item px-5 mx-5">
+                    <a class="nav-link text-dark" href="#">PRISLISTE</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                <li class="nav-item px-5 mx-5">
+                    <a class="nav-link text-dark" href="#">OM THEIA</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

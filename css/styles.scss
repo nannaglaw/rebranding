@@ -8,6 +8,7 @@ $link-decoration: none;
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/variables-dark";
 
+
 // 4. Include any default map overrides here
 $custom-colors: (
         "wh": #F5EFE3,
@@ -21,3 +22,19 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @import "bootstrapComponents";
 
 // 5. Du kan lave styling her...
+
+/* Fjern default border fra navbar på små skærme */
+.navbar.custom-border {
+  border: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+/* Fra md og op, tilføj din ønskede border */
+@media (min-width: 768px) {
+  .navbar.custom-border {
+    border-top: 2px solid #2A1813;
+    border-bottom: 2px solid #2A1813;
+  }
+}
+
