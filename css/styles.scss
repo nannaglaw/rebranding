@@ -51,6 +51,19 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 }
 
 @media (max-width: 767.98px) {
+  .logo {
+    max-width: 50%;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .logo {
+    max-width: 20%;
+  }
+}
+
+@media (max-width: 767.98px) {
   .navbar.custom-border {
     border: 0 !important;
     box-shadow: none !important;
@@ -60,8 +73,28 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 @media (min-width: 768px) {
   .navbar.custom-border {
-    border-top: 2px solid #2A1813;
-    border-bottom: 2px solid #2A1813;
+    border-top: 2px solid #715b4c;
+    border-bottom: 2px solid #715b4c;
   }
 }
+.velkommen {
+  font-size: xx-large;
+  font-family: Zodiak;
+}
 
+.ST {
+  font-size: xx-large;
+  font-family: Zodiak;
+  font-weight: bold;
+}
+
+.oase {
+  font-size: xx-large;
+  font-family: Zodiak-Italic;
+
+}
+
+.rolige {
+  font-size: x-large;
+  font-family: Zodiak;
+}

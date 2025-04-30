@@ -9,13 +9,13 @@ require "settings/init.php";
 <html lang="da">
 <head>
     <meta charset="utf-8">
-    
+
     <title>Skønhedssalon Theia</title>
-    
+
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    
+
     <link href="css/styles.css" rel="stylesheet">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,6 +25,21 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="mt-4">
+                <p class="velkommen text text-center text-lb">Velkommen til
+                <p class="ST text text-lb text-center">Skønhedssalon THEIA
+                <p class="oase text text-lb text-center"> - din oase af skønhed og ro
+                </p>
+
+                <p class="rolige text text-center text-db">Eksklusive behandlinger i rolige omgivelser -
+                    negle, vipper & bryn</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
