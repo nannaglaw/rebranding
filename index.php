@@ -27,7 +27,7 @@ require "settings/init.php";
 
 <div class="container mt-4">
     <div class="position-relative overflow-hidden ">
-    <img src="img/monstera.webp" class="monstera-bg" alt="monstera blad">
+    <!-- <img src="img/monstera.webp" class="monstera-bg" alt="monstera blad"> -->
     </div>
     <div class="row">
         <div class="col-12 text-center position-relative">
