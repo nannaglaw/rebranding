@@ -10,14 +10,14 @@
 <div class="modal fade" id="kontaktModal" tabindex="-1" aria-labelledby="kontaktModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
-            <div class="modal-header">
+            <div class="modal-header bg-wh">
                 <h5 class="modal-title text-lb" id="kontaktModalLabel" style="font-family: Lato">KONTAKT</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Luk"></button>
             </div>
-            <div class="modal-body">
+            <div class="modal-body bg-wh" style="font-family: Zodiak">
                 Her kunne der være en kontaktformular.
             </div>
-            <div class="modal-footer">
+            <div class="modal-footer bg-wh">
                 <button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-5 px-5 py-2" style="font-family: Zodiak" data-bs-dismiss="modal">Luk</button>
             </div>
         </div>
