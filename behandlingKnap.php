@@ -1,1 +1,4 @@
-<?php
+<link href="css/styles.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<button type="button" class="btn btn-gr btn-lg fw-bold text-wh rounded-5 px-5 py-2">Behandlinger</button>
