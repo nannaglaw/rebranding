@@ -83,3 +83,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 body {
   font-family: Zodiak;
 }
+
+.modal-header,
+.modal-footer {
+  border: none !important;
+}
