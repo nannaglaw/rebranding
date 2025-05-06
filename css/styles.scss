@@ -91,3 +91,26 @@ body {
 .modal-footer{
   border: none;
 }
+
+@media (max-width: 767.98px) {
+  .monstera {
+    max-width: 10%;
+
+  }
+}
+
+@media (min-width: 768px) {
+.monstera{
+  max-width: 30%;
+}
+}
+
+.monstera {
+  position: absolute;
+  z-index: -1;
+}
+
+text {
+  position: relative;
+  z-index: 1;
+}

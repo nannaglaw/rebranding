@@ -28,6 +28,7 @@ require "settings/init.php";
 <div class="container">
     <div class="row">
         <div class="col-12">
+            <img src="img/monstera.webp" class="img-fluid monstera">
             <div class="mt-4 g-1">
                 <p class="text text-center text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
                 <p class="text text-lb text-center m-0 fw-medium display-3" style="font-family: Zodiak">Skønhedssalon THEIA </p>
