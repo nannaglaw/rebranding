@@ -40,12 +40,12 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="container mt-3">
+<div class="container mt-5">
     <div class="row">
-        <div class="col text-end">
+        <div class="col-12 col-md-6 col-lg-6">
             <?php include "bookKnap.php";?>
         </div>
-        <div class="col text-start">
+        <div class="col-12 col-md-6 col-lg-6">
             <?php include "behandlingKnap.php";?>
         </div>
     </div>
