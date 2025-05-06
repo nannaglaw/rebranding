@@ -40,7 +40,15 @@ require "settings/init.php";
     </div>
 </div>
 
-
+<div class="container mt-3">
+    <div class="row">
+        <div class="col text-end">
+            <?php include "bookKnap.php";?>
+        </div>
+        <div class="col text-start">
+            <?php include "behandlingKnap.php";?>
+        </div>
+    </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
