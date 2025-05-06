@@ -25,8 +25,10 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<div class="container position-relative overflow-hidden mt-4">
+<div class="container mt-4">
+    <div class="position-relative overflow-hidden ">
     <img src="img/monstera.webp" class="monstera-bg" alt="monstera blad">
+    </div>
     <div class="row">
         <div class="col-12 text-center position-relative">
             <p class="text text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
