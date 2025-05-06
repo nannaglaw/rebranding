@@ -29,17 +29,16 @@ require "settings/init.php";
     <div class="row">
         <div class="col-12">
             <div class="mt-4 g-1">
-                <p class="velkommen text text-center text-lb m-0 fs-1">Velkommen til </p>
-                <p class="ST text text-lb text-center m-0 fs-1">Skønhedssalon THEIA </p>
-                <p class="oase text text-lb text-center m-0 fs-1"> – din oase af skønhed og ro </p>
+                <p class=" text text-center text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
+                <p class="text text-lb text-center m-0 display-3 fw-medium" style="font-family: Zodiak">Skønhedssalon THEIA </p>
+                <p class="text text-lb text-center m-0 display-3 fst-italic" style="font-family: Zodiak"> – din oase af skønhed og ro </p>
 
-                <p class="rolige text text-center text-db mt-2">Eksklusive behandlinger i rolige omgivelser -
+                <p class="text text-center text-db mt-3 fs-3" style="font-family: Zodiak">Eksklusive behandlinger i rolige omgivelser -
                     negle, vipper & bryn</p>
             </div>
         </div>
     </div>
 </div>
-
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
