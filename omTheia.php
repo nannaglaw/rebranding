@@ -46,7 +46,6 @@ require "settings/init.php";
                 gang du besøger os.
             <p class="text-center fw-semibold fs-4">Vi glæder os til at byde dig velkommen i vores nye omgivelser!</p>
 
-
         </div>
         <div class="col">
 
