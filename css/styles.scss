@@ -27,9 +27,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 @font-face {
   font-family: 'Zodiak-Variable';
-  src: url('../fonts/Zodiak-Variable.woff2') format('woff2'),
-  url('../fonts/Zodiak-Variable.woff') format('woff'),
-  url('../fonts/Zodiak-Variable.ttf') format('truetype');
+  src: url('../fonts/Zodiak-Variable.woff') format('woff');
   font-weight: 100 900;
   font-display: swap;
   font-style: normal;
@@ -37,9 +35,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 @font-face {
   font-family: 'Zodiak-VariableItalic';
-  src: url('../fonts/Zodiak-VariableItalic.woff2') format('woff2'),
-  url('../fonts/Zodiak-VariableItalic.woff') format('woff'),
-  url('../fonts/Zodiak-VariableItalic.ttf') format('truetype');
+  src: url('../fonts/Zodiak-VariableItalic.woff') format('woff');
   font-weight: 100 900;
   font-display: swap;
   font-style: italic;
@@ -78,23 +74,23 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
   }
 }
 .velkommen {
-  font-size: xx-large;
+  font-size: xxx-large;
   font-family: Zodiak;
 }
 
 .ST {
-  font-size: xx-large;
+  font-size: xxx-large;
   font-family: Zodiak;
   font-weight: bold;
 }
 
 .oase {
-  font-size: xx-large;
+  font-size: xxx-large;
   font-family: Zodiak-Italic;
 
 }
 
 .rolige {
-  font-size: x-large;
+  font-size: xx-large;
   font-family: Zodiak;
 }

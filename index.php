@@ -28,13 +28,12 @@ require "settings/init.php";
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <div class="mt-4">
-                <p class="velkommen text text-center text-lb">Velkommen til
-                <p class="ST text text-lb text-center">Skønhedssalon THEIA
-                <p class="oase text text-lb text-center"> - din oase af skønhed og ro
-                </p>
+            <div class="mt-4 g-1">
+                <p class="velkommen text text-center text-lb m-0 fs-1">Velkommen til </p>
+                <p class="ST text text-lb text-center m-0 fs-1">Skønhedssalon THEIA </p>
+                <p class="oase text text-lb text-center m-0 fs-1"> - din oase af skønhed og ro </p>
 
-                <p class="rolige text text-center text-db">Eksklusive behandlinger i rolige omgivelser -
+                <p class="rolige text text-center text-db mt-2">Eksklusive behandlinger i rolige omgivelser -
                     negle, vipper & bryn</p>
             </div>
         </div>
