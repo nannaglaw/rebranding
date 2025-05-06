@@ -17,6 +17,8 @@ $custom-colors: (
         "db": #2A1813,
         "lb": #715b4c,
         "gr": #86A687,
+        "wd": #EBE0CF,
+
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
