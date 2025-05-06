@@ -25,30 +25,33 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<div class="container">
+<div class="container position-relative overflow-hidden mt-4">
+    <img src="img/monstera.webp" class="monstera-bg" alt="monstera blad">
     <div class="row">
-        <div class="col-12">
-            <div class="mt-4 g-1">
-                <p class="text text-center text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
-                <p class="text text-lb text-center m-0 fw-medium display-3" style="font-family: Zodiak">Skønhedssalon THEIA </p>
-                <p class="text text-lb text-center m-0 fst-italic display-3" style="font-family: Zodiak"> – din oase af skønhed og ro </p>
+        <div class="col-12 text-center position-relative">
+            <p class="text text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
+            <p class="text text-lb m-0 fw-medium display-3" style="font-family: Zodiak">Skønhedssalon THEIA</p>
+            <p class="text text-lb m-0 fst-italic display-3" style="font-family: Zodiak">– din oase af skønhed og ro</p>
 
-                <p class="text text-center text-db mt-3 fs-3" style="font-family: Zodiak">Eksklusive behandlinger i rolige omgivelser -
-                    negle, vipper & bryn</p>
-            </div>
+            <p class="text text-db mt-3 fs-3" style="font-family: Zodiak">
+                Eksklusive behandlinger i rolige omgivelser – <br> negle, vipper & bryn
+            </p>
         </div>
     </div>
 </div>
 
+
 <div class="container mt-5">
-    <div class="row">
-        <div class="col-12 col-md-6 col-lg-6">
-            <?php include "bookKnap.php";?>
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-6 d-flex justify-content-center mb-3 mb-md-0">
+            <?php include "bookKnap.php"; ?>
         </div>
-        <div class="col-12 col-md-6 col-lg-6">
-            <?php include "behandlingKnap.php";?>
+        <div class="col-12 col-md-6 d-flex justify-content-center">
+            <?php include "behandlingKnap.php"; ?>
         </div>
     </div>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
