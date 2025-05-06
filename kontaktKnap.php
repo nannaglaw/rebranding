@@ -15,7 +15,10 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Luk"></button>
             </div>
             <div class="modal-body bg-wh" style="font-family: Zodiak">
-                Her kunne der være en kontaktformular.
+                <p class="fw-bold text-lb">Kontakt</p>
+                <p>Du er alt velkommen til at kontakte os, hvis du har yderligere spørgsmål.</p>
+                <p class="mt-5"><span class="fw-medium">Telefon:</span>+45 61 47 73 00 </p>
+                <p><span class="fw-medium">Instagram:</span> @Salon_Theia</p>
             </div>
             <div class="modal-footer bg-wh">
                 <button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-5 px-5 py-2" style="font-family: Zodiak" data-bs-dismiss="modal">Luk</button>

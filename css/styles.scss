@@ -25,6 +25,10 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 // 5. Du kan lave styling her...
 
+body {
+  font-family: Zodiak-Regular, serif;
+}
+
 @font-face {
   font-family: 'Zodiak-Variable';
   src: url('../fonts/Zodiak-Variable.woff') format('woff');
@@ -37,6 +41,91 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
   font-family: 'Zodiak-VariableItalic';
   src: url('../fonts/Zodiak-VariableItalic.woff') format('woff');
   font-weight: 100 900;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Zodiak-Thin';
+  src: url('../fonts/Zodiak-Thin.woff') format('woff');
+  font-weight: 100;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Zodiak-ThinItalic';
+  src: url('../fonts/Zodiak-ThinItalic.woff') format('woff');
+  font-weight: 100;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Zodiak-Light';
+  src: url('../fonts/Zodiak-Light.woff') format('woff');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Zodiak-LightItalic';
+  src: url('../fonts/Zodiak-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Zodiak-Regular';
+  src: url('../fonts/Zodiak-Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Zodiak-Italic';
+  src: url('../fonts/Zodiak-Italic.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Zodiak-Bold';
+  src: url('../fonts/Zodiak-Bold.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Zodiak-BoldItalic';
+  src: url('../fonts/Zodiak-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Zodiak-Extrabold';
+  src: url('../fonts/Zodiak-Extrabold.woff') format('woff');
+  font-weight: 800;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Zodiak-ExtraboldItalic';
+  src: url('../fonts/Zodiak-ExtraboldItalic.woff') format('woff');
+  font-weight: 800;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Zodiak-Black';
+  src: url('../fonts/Zodiak-Black.woff') format('woff');
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Zodiak-BlackItalic';
+  src: url('../fonts/Zodiak-BlackItalic.woff') format('woff');
+  font-weight: 900;
   font-display: swap;
   font-style: italic;
 }
@@ -75,10 +164,6 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 }
 
 .btn {
-  font-family: Zodiak;
-}
-
-body {
   font-family: Zodiak;
 }
 
@@ -121,4 +206,8 @@ body {
 .text {
   position: relative;
   z-index: 1;
+}
+
+.overskrift {
+  font-family: Zodiak;
 }

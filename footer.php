@@ -1,6 +1,7 @@
 <link href="css/styles.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
+<body>
 <div class="container pt-5 bg-wh">
     <div class="row p-5 border-lb border-top">
         <div class="col-12 col-md-6 col-lg-6">
@@ -28,3 +29,4 @@
             <p class="m-1"><span class="fw-medium">Søndag:</span> LUKKET</p>
         </div>
     </div>
+</body>
