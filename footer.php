@@ -3,8 +3,9 @@
 
 <body>
 <div class="container pt-5 bg-wh">
-    <div class="row p-5 border-lb border-top">
-        <div class="col-12 col-md-6 col-lg-6">
+    <div class="p-5 border-lb border-top">
+        <div class="row">
+        <div class="col col-md-6 col-lg-6">
             <div class="d-flex gap-4">
             <?php include "bookKnap.php";?>
             <?php include "behandlingKnap.php";?>
@@ -17,7 +18,7 @@
                 <p><span class="fw-medium">CVR:</span> 44130475</p>
             </div>
         </div>
-        <div class="col-12 col-md-6 col-lg-6">
+        <div class="col col-md-6 col-lg-6">
             <p class="text-lb fs-4 fw-medium ">Åbningstider:</p>
             <p>Åbningstiderne kan variere, tjek derfor booking <a class="link-gr" href="https://klinik-skoen.planway.com/">her.</a> </p>
             <p class="m-1"><span class="fw-medium">Mandag:</span> 9.30 - 17.30 </p>
@@ -28,5 +29,6 @@
             <p class="m-1"><span class="fw-medium">Lørdag:</span> Efter aftale</p>
             <p class="m-1"><span class="fw-medium">Søndag:</span> LUKKET</p>
         </div>
+    </div>
     </div>
 </body>
