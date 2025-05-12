@@ -9,6 +9,7 @@
             <div class="d-flex gap-4">
             <?php include "bookKnap.php";?>
             <?php include "behandlingKnap.php";?>
+
             </div>
             <div class="ps-5">
                 <p class="mt-5"><span class="fw-medium">Telefon:</span>+45 61 47 73 00 </p>
