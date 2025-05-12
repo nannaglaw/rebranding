@@ -5,7 +5,7 @@
 <div class="bg-wh">
 <a href="index.php"><img src="img/LogoTheia.webp" class="logo img-fluid mx-auto d-block my-3"></a>
 </div>
-<nav class="navbar custom-border navbar-expand-lg bg-wh ms-5 me-5">
+<nav class="navbar custom-border navbar-expand-lg bg-wh ms-0 me-0 ms-lg-5 me-lg-5 ms-md-5 me-md-5">
     <div class="container justify-content-center">
         <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

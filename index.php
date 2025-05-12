@@ -25,7 +25,7 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<div class="container mt-4">
+<div class="container mt-0 mt-lg-4 mt-md-4">
 
     <div class="row">
         <div class="col-12 text-center position-relative">
@@ -37,7 +37,7 @@ require "settings/init.php";
                 Eksklusive behandlinger i rolige omgivelser – <br> negle, vipper & bryn
             </p>
             <div class="position-absolute monstera-bg">
-                <img src="img/monstera.webp" class="" alt="monstera blad">
+                <!-- <img src="img/monstera.webp" class="" alt="monstera blad"> -->
             </div>
         </div>
     </div>
