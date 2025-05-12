@@ -27,9 +27,9 @@ require "settings/init.php";
 
 <div class="container">
     <div class="row">
-        <div class="col"></div>
-        <div class="col-8 fs-5 text-db">
-            <p class="m-3 px-5 text-center text-lb display-5 fw-semibold">Om Skønhedssalon THEIA</p>
+        <div class="d-flex justify-content-center align-items-center">
+        <div class="col-12 col-lg-8 fs-5 text-db">
+            <p class="m-3 px-5 text-lg-center text-lb display-5 fw-semibold">Om Skønhedssalon THEIA</p>
             <p class=" m-3 px-5">Vi startede vores rejse i 2022 under navnet <span
                         class="fw-semibold">Klinik S.K.Ø.N</span>, og vi er stolte af den udvikling, vi har gennemgået
                 siden da. I takt med at vi voksede, blev det tid til forandring: nyt navn, nye rammer, samme passion.
@@ -45,14 +45,19 @@ require "settings/init.php";
                 samme – at give dig en <span class="fst-italic">personlig, professionel og skøn oplevelse</span> hver
                 gang du besøger os.
             <p class="text-center fw-semibold fs-4">Vi glæder os til at byde dig velkommen i vores nye omgivelser!</p>
-
         </div>
-        <div class="col">
-
+        </div>
         </div>
     </div>
-</div>
 
+<div class="container-fluid bg-wd text-center">
+    <div class="row">
+        <div class="col">
+            Column
+        </div>
+        <div class="col">
+            Column
+        </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
