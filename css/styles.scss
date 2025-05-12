@@ -128,7 +128,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 }
 
 body {
-  font-family: Zodiak-Regular, serif;
+  font-family: 'Zodiak-Regular', serif;
 }
 
 .navbar {
@@ -185,7 +185,6 @@ body {
     opacity: 0.1;
     z-index: -1;
     pointer-events: none;
-    transform: translateY(20%);
   }
 
 }
@@ -199,7 +198,6 @@ body {
     opacity: 0.1;
     z-index: -1;
     pointer-events: none;
-    transform: translateY(20%);
   }
 
 }
