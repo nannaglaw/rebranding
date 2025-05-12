@@ -44,7 +44,7 @@ require "settings/init.php";
 </div>
 
 
-<div class="container mt-5">
+<div class="container mt-3">
     <div class="row justify-content-center">
         <div class="col-12 col-md-6 d-flex justify-content-center mb-3 mb-md-0">
             <?php include "bookKnap.php"; ?>
