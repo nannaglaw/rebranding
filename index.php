@@ -26,9 +26,7 @@ require "settings/init.php";
 <?php include "navbar.php"; ?>
 
 <div class="container mt-4">
-    <div class="position-relative overflow-hidden ">
-    <!-- <img src="img/monstera.webp" class="monstera-bg" alt="monstera blad"> -->
-    </div>
+
     <div class="row">
         <div class="col-12 text-center position-relative">
             <p class="text text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
@@ -38,6 +36,9 @@ require "settings/init.php";
             <p class="text text-db mt-3 fs-3" style="font-family: Zodiak">
                 Eksklusive behandlinger i rolige omgivelser – <br> negle, vipper & bryn
             </p>
+            <div class="position-absolute monstera-bg">
+                <img src="img/monstera.webp" class="" alt="monstera blad">
+            </div>
         </div>
     </div>
 </div>
