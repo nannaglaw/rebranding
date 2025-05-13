@@ -3,7 +3,7 @@
 
 <body>
 <div class="container pt-5 bg-wh">
-    <div class="p-5 border-lb border-top">
+    <div class="p-5 custom-border">
         <div class="row">
             <div class="col-12 col-lg-6">
                 <div class="d-flex gap-4">
