@@ -82,39 +82,39 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="container-fluid my-4">
+<div class="container my-4">
     <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
     <div class="bg-wd p-3 mb-3">
         <div class="row fw-bold pb-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2 fed">Brow- & Lash lift</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 fed">Tid</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 fed">Pris</div>
+            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1 fed ">Brow- & Lash lift</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-md-1">Tid</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-1 offset-lg-0 offset-md-1">Pris</div>
         </div>
 
         <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2">Brow & Lash Lift inkl. farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 ">55 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5">800 kr.</div>
+            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow & Lash Lift inkl. farve</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">55 min.</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">800 kr.</div>
         </div>
         <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2">Brow Lift uden farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 ">30 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5">400 kr.</div>
+            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow Lift uden farve</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">30 min.</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">400 kr.</div>
         </div>
         <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2">Brow Lift inkl. farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 ">40 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 ">450 kr.</div>
+            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow Lift inkl. farve</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">450 kr.</div>
         </div>
         <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2">Lash Lift uden farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 ">40 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 ">400 kr.</div>
+            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Lash Lift uden farve</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">400 kr.</div>
         </div>
         <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2">Lash Lift inkl. farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 ">60 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5">450 kr.</div>
+            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Lash Lift inkl. farve</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">60 min.</div>
+            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">450 kr.</div>
         </div>
     </div>
 </div>
