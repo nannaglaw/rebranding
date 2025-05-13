@@ -132,7 +132,7 @@ body {
 }
 
 .navbar {
-  font-family: Lato;
+  font-family: 'Lato', 'sans-serif';
 
 }
 
@@ -223,4 +223,21 @@ body {
 
 .fed {
   font-family: 'Zodiak-Bold', 'serif';
+}
+
+.accordion-body {
+  background-color: #EBE0CF;
+}
+
+.accordion-header {
+  background-color: #EBE0CF;
+  color: #EBE0CF;
+}
+
+.accordion-item {
+  background-color: #EBE0CF;
+}
+
+.accordion-button {
+  background-color: #EBE0CF;
 }
