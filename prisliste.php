@@ -29,59 +29,31 @@ require "settings/init.php";
 
 <ul class="nav justify-content-center py-3 border-start ">
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#">Brow- &
+        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow- &
             Lash Lift</a>
     </li>
     <li class="nav-item">
         <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page"
-           href="#">Vipper</a>
+           href="#sec2">Vipper</a>
     </li>
     <li class="nav-item">
         <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page"
-           href="#">Bryn</a>
+           href="#sec3">Bryn</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#">Mani- &
+        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec4">Mani- &
             Pedicure</a>
     </li>
     <li class="nav-item">
         <a class="nav-link active text-lb fs-5 fed border-start border-end border-2 border-lb" aria-current="page"
-           href="#">Japansk Lifting</a>
+           href="#sec5">Japansk Lifting</a>
     </li>
 </ul>
 
 <p class="d-flex justify-content-center p-3 fs-6 text-lb fedkursiv">OBS! Ved aftagning af produkter fra andre behandlere
     pålægges et gebyr på min. 50 kr</p>
 
-<div class="container-fluid bg-wd text-db py-3 ">
-    <div class="row">
-        <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2">
-            <p class="fed"> Brow- & Lash lift</p>
-            <p>Brow & Lash Lift inkl. farve</p>
-            <p>Brow Lift uden farve </p>
-            <p>Brow Lift inkl. farve</p>
-            <p>Lash Lift uden farve</p>
-            <p>Lash Lift inkl. farve</p>
-        </div>
-        <div class="col-3 col-md-3 col-lg-3 fs-5">
-            <p class="fed">Tid</p>
-            <p>55 min.</p>
-            <p>30 min.</p>
-            <p>40 min.</p>
-            <p>40 min.</p>
-            <p>60 min.</p>
-        </div>
-        <div class="col-3 col-md-3 col-lg-3 fs-5">
-            <p class="fed">Pris</p>
-            <p>800 kr.</p>
-            <p>400 kr.</p>
-            <p>450 kr.</p>
-            <p>400 kr.</p>
-            <p>450 kr.</p>
-        </div>
-    </div>
-</div>
-
+<div id="sec1">
 <div class="container my-4">
     <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
     <div class="bg-wd p-3 mb-3">
@@ -118,7 +90,197 @@ require "settings/init.php";
         </div>
     </div>
 </div>
+</div>
 
+<div id="sec2">
+    <div class="container my-4">
+        <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
+        <div class="bg-wd p-3 mb-3">
+            <div class="row fw-bold pb-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1 fed ">Vipper</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-md-1">Tid</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-1 offset-lg-0 offset-md-1">Pris</div>
+            </div>
+
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">W-Lashes (Nyt sæt)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">105 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">750 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">W-Lashes (opfyldning 2-3 uger)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">55 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">430 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">W-Lashes (opfyldning 4 uger)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">65 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">530 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Premade Volume (nyt sæt)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">115 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">830 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Premade Volume (opfyldning 1 uge)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">350 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Premade Volume (opfyldning 2-3 uger)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">80 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">450 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Premade Volume (opfyldning 4 uger)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">80 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">575 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Single lashes (nyt sæt)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">100 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">695 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Single lashes (opfyldning 1 uge)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">295 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Single lashes (opfyldning 2-3 uger)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">55 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">400 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Single lashes (opfyldning 4 uger)</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">75 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">500 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Aftagning af vipper</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">25 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">0 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Farve af naturlige vipper</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">30 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">75 kr.</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="sec3">
+    <div class="container my-4">
+        <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
+        <div class="bg-wd p-3 mb-3">
+            <div class="row fw-bold pb-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1 fed ">Bryn</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-md-1">Tid</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-1 offset-lg-0 offset-md-1">Pris</div>
+            </div>
+
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Ret af bryn m. pincet</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">20 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">45 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Ret og farve af bryn m. pincet</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">25 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">70 kr.</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="sec4">
+    <div class="container my-4">
+        <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
+        <div class="bg-wd p-3 mb-3">
+            <div class="row fw-bold pb-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1 fed ">Manicure & Pedicure</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-md-1">Tid</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-1 offset-lg-0 offset-md-1">Pris</div>
+            </div>
+
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Shellac hel farve	</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">60 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">350 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Shellac m. Design</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">75 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">350 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Aftagning af shellac + ny farve</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">80 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">350 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Aftagning af shellac + ny farve m. design</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">80 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">350 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Shellac hel farve + forstærkning</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">90 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">395 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Shellac m. design + forstærkning</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">95 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">395 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Opfyldning af forstærkning m. hel farve eller design</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">95 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">370 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Pedicure</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">60 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">350 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Aftagning af shellac</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">35 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">100 kr.</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="sec5">
+    <div class="container my-4">
+        <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
+        <div class="bg-wd p-3 mb-3">
+            <div class="row fw-bold pb-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1 fed ">Japansk lifting</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-md-1">Tid</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-1 offset-lg-0 offset-md-1">Pris</div>
+            </div>
+
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Japansk lifting</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">70 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">500 kr.</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container  ">
+<p class="text-center p-3 m-4 fs-4 text-lb fedkursiv">Altid tjek oplysningerne om din behandling ud inden du møder op
+    til din tid, da der kan være vigtige ting du skal forbedre dig på inden!
+</p>
+    <div class="d-flex justify-content-center">
+        <?php include "bookKnap.php"; ?>
+    <?php include "behandlingKnap.php"; ?>
+</div>
+</div>
 
 
 <?php include "footer.php"; ?>
