@@ -227,19 +227,30 @@ body {
 
 .accordion-body {
   background-color: #EBE0CF;
+  color: #2A1813;
 }
 
 .accordion-header {
   background-color: #EBE0CF;
-  color: #EBE0CF;
+  color: #2A1813;
+  border-color: #EBE0CF;
 }
 
 .accordion-item {
   background-color: #EBE0CF;
+  border-color: #EBE0CF;
 }
 
 .accordion-button {
   background-color: #EBE0CF;
+  border-color: #EBE0CF;
+
+}
+
+.accordion-button:not(.collapsed) {
+  background-color:#EBE0CF;
+  color: #2A1813;
+  border-color: #EBE0CF;
 }
 
 .fedkursiv {
