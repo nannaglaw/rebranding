@@ -85,7 +85,7 @@ require "settings/init.php";
 <div class="container-fluid my-4">
     <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
     <div class="bg-wd p-3 mb-3">
-        <div class="row fw-bold border-bottom pb-2">
+        <div class="row fw-bold pb-2">
             <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-2 fed">Brow- & Lash lift</div>
             <div class="col-3 col-md-3 col-lg-3 fs-5 fed">Tid</div>
             <div class="col-3 col-md-3 col-lg-3 fs-5 fed">Pris</div>
