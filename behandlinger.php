@@ -26,7 +26,7 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<p class="text text-lb m-0 fw-medium display-5 text-center mt-3" style="font-family: Zodiak">Behandlinger</p>
+<p class="text text-lb m-0 fw-medium display-5 text-center mt-5" style="font-family: Zodiak">Behandlinger</p>
 
 <ul class="nav justify-content-center pt-3 border-start pb-5">
     <li class="nav-item">
@@ -52,7 +52,7 @@ require "settings/init.php";
 
 
 <div class="mt-3" id="sec1">
-    <p class="fed text-lb text-center fs-2 my-lg-4">Brow- & Lash Lift</p>
+    <p class="fed text-lb text-center fs-2 my-lg-2">Brow- & Lash Lift</p>
     <div class="container">
         <div class="row">
             <!-- Accordion 1 -->
@@ -135,7 +135,7 @@ require "settings/init.php";
 </div>
 
 <div class="mt-5" id="sec2">
-    <p class="fed text-lb text-center fs-2 my-3">Vipper</p>
+    <p class="fed text-lb text-center fs-2 my-2">Vipper</p>
     <div class="container">
         <div class="row">
             <!-- Accordion 4 -->
@@ -387,7 +387,7 @@ require "settings/init.php";
     </div>
 
 <div class="mt-5" id="sec3">
-    <p class="fed text-lb text-center fs-2 my-3">Bryn</p>
+    <p class="fed text-lb text-center fs-2 my-2">Bryn</p>
     <div class="container">
         <div class="row">
             <!-- Accordion 13 -->
@@ -450,7 +450,7 @@ require "settings/init.php";
 </div>
 
 <div class="mt-5" id="sec4">
-    <p class="fed text-lb text-center fs-2 my-3">Manicure & Pedicure</p>
+    <p class="fed text-lb text-center fs-2 my-2">Manicure & Pedicure</p>
     <div class="container">
         <div class="row">
             <!-- Accordion 15 -->
@@ -662,7 +662,7 @@ require "settings/init.php";
                 </div>
             </div>
             <div class="mt-5" id="sec5">
-                <p class="fed text-lb text-center fs-2 my-3">Japansk Lifting</p>
+                <p class="fed text-lb text-center fs-2 my-2">Japansk Lifting</p>
                 <div class="container">
                     <div class="row">
                         <!-- Accordion 23 -->
