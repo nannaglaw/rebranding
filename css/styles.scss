@@ -191,14 +191,28 @@ body {
 
 @media (max-width: 767.98px) {
   .monstera-bg {
+    display: none !important;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .telefon-bg {
     position: absolute;
     opacity: 0.3;
     width: 100%;
     z-index: -1;
     pointer-events: none;
+
   }
 
 }
+@media (min-width: 768px) {
+  .telefon-bg {
+    display: none !important;
+  }
+}
+
+
 
 @media (min-width: 768px) {
   .monstera-bg {

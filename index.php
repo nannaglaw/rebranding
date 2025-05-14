@@ -27,6 +27,8 @@ require "settings/init.php";
 
 <div class="position-relative">
     <img src="img/forsideM.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/mTelefon.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
 </div>
 
 
