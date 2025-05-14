@@ -694,7 +694,17 @@ require "settings/init.php";
         </div>
     </div>
 </div>
+            <div class="container">
+                <p class="text-center p-3 mt-5 fs-4 text-lb fedkursiv">Hvis du har lyst til at vide mere om din behandler
+                    og om skønhedssalonen, <br>kan du læse mere under Om THEIA!
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+                </p>
+                <div class="justify-content-center d-flex gap-4">
+                    <?php include "omTheiaKnap.php"; ?>
+                </div>
+            </div>
+
+            <?php include "footer.php"; ?>
+            <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
