@@ -23,6 +23,7 @@ require "settings/init.php";
 
 <body class="bg-wh">
 
+
 <?php include "navbar.php"; ?>
 
 <p class="text text-lb m-0 fw-medium display-5 text-center mt-3" style="font-family: Zodiak">Behandlinger</p>
@@ -284,6 +285,7 @@ require "settings/init.php";
         </div>
     </div>
 </div>
+
 
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

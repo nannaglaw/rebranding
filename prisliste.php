@@ -276,7 +276,7 @@ require "settings/init.php";
 <p class="text-center p-3 m-4 fs-4 text-lb fedkursiv">Altid tjek oplysningerne om din behandling ud inden du møder op
     til din tid, da der kan være vigtige ting du skal forbedre dig på inden!
 </p>
-    <div class="d-flex justify-content-center">
+    <div class="justify-content-center d-flex gap-4">
         <?php include "bookKnap.php"; ?>
     <?php include "behandlingKnap.php"; ?>
 </div>
