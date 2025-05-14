@@ -560,7 +560,137 @@ require "settings/init.php";
                     </div>
                 </div>
             </div>
+            <!-- Accordion 19 -->
+            <div class="col-12 col-lg-6 mt-4">
+                <div class="accordion custom-accordion" id="accordionNineteen">
+                    <div class="accordion-item border border-wd rounded shadow-sm">
+                        <h2 class="accordion-header" id="headingNineteen">
+                            <button class="accordion-button collapsed text-db fs-4" type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapseNineteen" aria-expanded="false" aria-controls="collapseNineteen">
+                                Opfyldning af forstærkning
+                            </button>
+                        </h2>
+                        <div id="collapseNineteen" class="accordion-collapse collapse" aria-labelledby="headingNineteen"
+                             data-bs-parent="#accordionNineteen">
+                            <div class="accordion-body">
+                                <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer opfyldning af forstærkning samt påføring
+                                    af ny valgfri shellac-farve evt. med design. </p>
+                                <p class="px-lg-5 px-4">Forstærkning er ideelt, hvis du ønsker ekstra holdbarhed og beskyttelse af
+                                    dine naturlige negle. Forstærkningen gør neglene mere modstandsdygtige over for brud og giver et flot,
+                                    glansfuldt resultat, der holder endnu længere end almindelig shellac.</p>
+                                <p class="px-lg-5 px-4"><span class="fed">Behandlingen varer 95 min. </span></p>
+                                <p class="px-lg-5 px-4"><span class="fed">Holdbarhed:</span> Anbefaler opfriskning efter 2-3 uger</p>
+                                <p class="px-lg-5 px-4"><span class="fed">Pris:</span> 370 kr. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion 20 -->
+            <div class="col-12 col-lg-6 mt-4">
+                <div class="accordion custom-accordion" id="accordionTwenty">
+                    <div class="accordion-item border border-wd rounded shadow-sm">
+                        <h2 class="accordion-header" id="headingTwenty">
+                            <button class="accordion-button collapsed text-db fs-4" type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">
+                                Shellac Pedicure
+                            </button>
+                        </h2>
+                        <div id="collapseTwenty" class="accordion-collapse collapse" aria-labelledby="headingTwenty"
+                             data-bs-parent="#accordionTwenty">
+                            <div class="accordion-body">
+                                <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer valgfri shellac-farve på dine naturlige negle,
+                                    samt formning af neglene og klipning af neglebånd.</p>
+                                <p class="px-lg-5 px-4">
+                                    Da tånegle vokser langsommere end fingernegle, kan resultatet ofte holde længere –
+                                    især hvis du undgår sko, der klemmer, og plejer neglene med fugt og olie.</p>
+                                <p class="px-lg-5 px-4"><span class="fed">Behandlingen varer 60 min. </span></p>
+                                <p class="px-lg-5 px-4"><span class="fed">Holdbarhed:</span> Anbefaler opfriskning efter 3-5 uger</p>
+                                <p class="px-lg-5 px-4"><span class="fed">Pris:</span> 350 kr. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion 21 -->
+            <div class="col-12 col-lg-6 mt-4">
+                <div class="accordion custom-accordion" id="accordionTwentyone">
+                    <div class="accordion-item border border-wd rounded shadow-sm">
+                        <h2 class="accordion-header" id="headingTwentyone">
+                            <button class="accordion-button collapsed text-db fs-4" type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwentyone" aria-expanded="false" aria-controls="collapseTwentyone">
+                                Aftagning af shellac
+                            </button>
+                        </h2>
+                        <div id="collapseTwentyone" class="accordion-collapse collapse" aria-labelledby="headingTwentyone"
+                             data-bs-parent="#accordionTwentyone">
+                            <div class="accordion-body">
+                                <p class="px-lg-5 px-4 pt-3">Shellac fjernes skånsomt ved at file det øverste lag let og
+                                    derefter opløse lakken med acetone-indpakkede vatrondeller i 10-15 minutter. Herefter skubbes
+                                    lakken forsigtigt af uden at skade den naturlige negl.</p>
 
+                                <p class="px-lg-5 px-4 m-0"><span class="fed">Behandlingen varer 35 min. </span></p>
+                                <p class="px-lg-5 px-4 kursiv">Behandlingen kan variere alt efter hvordan standen på shellacen ser ud. </p>
+                                <p class="px-lg-5 px-4"><span class="fed">Pris:</span> Gratis, hvis du har fået lavet shellac-behandling her. For nye kunder koster det 100 kr. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion 22 -->
+            <div class="col-12 col-lg-6 mt-4">
+                <div class="accordion custom-accordion" id="accordionTwentytwo">
+                    <div class="accordion-item border border-wd rounded shadow-sm">
+                        <h2 class="accordion-header" id="headingTwentytwo">
+                            <button class="accordion-button collapsed text-db fs-4" type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwentytwo" aria-expanded="false" aria-controls="collapseTwentytwo">
+                                Produkter
+                            </button>
+                        </h2>
+                        <div id="collapseTwentytwo" class="accordion-collapse collapse" aria-labelledby="headingTwentytwo"
+                             data-bs-parent="#accordionTwentytwo">
+                            <div class="accordion-body">
+                                <p class="px-lg-5 px-4 pt-3">Vi arbejder med kvalitetsmærker som CND, Kandii og N4Y for at sikre smukke,
+                                    holdbare resultater. Med disse brands får du professionelle behandlinger, der både skåner negle og holder længere.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5" id="sec5">
+                <p class="fed text-lb text-center fs-2 my-3">Japansk Lifting</p>
+                <div class="container">
+                    <div class="row">
+                        <!-- Accordion 23 -->
+                        <div class="col-12 col-lg-6 offset-lg-3 mt-lg-4 mt-md-4 mt-4">
+                            <div class="accordion custom-accordion" id="accordionTwentytree">
+                                <div class="accordion-item border border-wd rounded shadow-sm">
+                                    <h2 class="accordion-header" id="headingTwentytree">
+                                        <button class="accordion-button collapsed text-db fs-4" type="button"
+                                                data-bs-toggle="collapse"
+                                                data-bs-target="#collapseTwentytree" aria-expanded="false" aria-controls="collapseTwentytree">
+                                            Japansk Lifting
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwentytree" class="accordion-collapse collapse" aria-labelledby="headingTwentytree"
+                                         data-bs-parent="#accordionTwentytree">
+                                        <div class="accordion-body">
+                                            <p class="px-lg-5 px-4 pt-3">Japansk Lifting er en afstressende og opstrammende ansigtsbehandling, der både udrenser
+                                                og stimulerer huden. Denne behandling kombinerer massageteknikker, der fremmer blodcirkulationen, lindrer spændinger
+                                                og giver et friskt, ungdommeligt udseende. Japansk Lifting er ikke kun godt for huden, men også for krop og sjæl, da
+                                                den skaber balance og velvære.</p>
+                                            <p class="px-lg-5 px-4"><span class="fed">Behandlingenstiden kan variere mellem 45-70 min. </span></p>
+                                            <p class="px-lg-5 px-4"><span class="fed">Pris:</span> 500 kr. </p>
+                                            <p class="px-lg-5 px-4 kursiv">OBS. Behandlingen laves af en elev, normalpris er 795 kr. </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
         </div>
     </div>
 </div>
