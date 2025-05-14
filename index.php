@@ -27,18 +27,19 @@ require "settings/init.php";
 
 <div class="container mt-0 mt-lg-4 mt-md-4">
 
+    <div class="position-relative">
+        <img src="img/fMonstera.webp" class="d-block img-fluid monstera-bg" alt="monstera blad">
+    </div>
+
     <div class="row">
-        <div class="col-12 text-center position-relative">
+        <div class="col-12 text-overlay text-center position-relative">
             <p class="text text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
             <p class="text text-lb m-0 fw-medium display-3" style="font-family: Zodiak">Skønhedssalon THEIA</p>
             <p class="text text-lb m-0 fst-italic display-3" style="font-family: Zodiak">– din oase af skønhed og ro</p>
 
-            <p class="text text-db mt-3 fs-3" style="font-family: Zodiak">
+            <p class="text-overlay text-db mt-3 fs-3" style="font-family: Zodiak">
                 Eksklusive behandlinger i rolige omgivelser – <br> negle, vipper & bryn
             </p>
-            <div class="position-absolute monstera-bg">
-                <!-- <img src="img/monstera.webp" class="" alt="monstera blad"> -->
-            </div>
         </div>
     </div>
 </div>
