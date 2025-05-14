@@ -25,15 +25,16 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<div class="container mt-0 mt-lg-4 mt-md-4">
+<div class="position-relative">
+    <img src="img/forsideM.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+</div>
 
-    <div class="position-relative">
-        <img src="img/fMonstera.webp" class="d-block img-fluid monstera-bg" alt="monstera blad">
-    </div>
+
+<div class="container mt-0 mt-lg-5 mt-md-5 pt-lg-4 pt-md-4">
 
     <div class="row">
         <div class="col-12 text-overlay text-center position-relative">
-            <p class="text text-lb m-0 display-3" style="font-family: Zodiak">Velkommen til </p>
+            <p class="text text-lb m-0 fw-medium display-3" style="font-family: Zodiak">Velkommen til </p>
             <p class="text text-lb m-0 fw-medium display-3" style="font-family: Zodiak">Skønhedssalon THEIA</p>
             <p class="text text-lb m-0 fst-italic display-3" style="font-family: Zodiak">– din oase af skønhed og ro</p>
 
@@ -47,10 +48,8 @@ require "settings/init.php";
 
 <div class="container mt-3">
     <div class="row justify-content-center">
-        <div class="col-12 col-md-6 d-flex justify-content-center mb-3 mb-md-0">
+        <div class="col-12 col-md-6 d-flex justify-content-center mb-3 mb-md-0 gap-5">
             <?php include "bookKnap.php"; ?>
-        </div>
-        <div class="col-12 col-md-6 d-flex justify-content-center">
             <?php include "behandlingKnap.php"; ?>
         </div>
     </div>
