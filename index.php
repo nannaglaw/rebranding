@@ -48,7 +48,7 @@ require "settings/init.php";
 </div>
 
 
-<div class="container mt-3">
+<div class="container mt-3 mb-5 pb-2">
     <div class="row justify-content-center">
         <div class="col-12 col-md-6 d-flex justify-content-center mb-3 mb-md-0 gap-5">
             <?php include "bookKnap.php"; ?>
@@ -56,6 +56,45 @@ require "settings/init.php";
         </div>
     </div>
 </div>
+
+
+<div class="container-fluid bg-wd">
+    <div class="row">
+        <div class="col-12 col-lg-4 offset-lg-2">
+            <img class="img-fluid ms-5 ms-lg-0 ms-md-0 my-5" src="img/profil.webp" alt="Billede af Charlotte Larsen">
+        </div>
+        <div class="col-12 col-lg-6">
+            <p class="text-center text-lb display-6 pt-lg-5 pt-3" style="font-family:'Zodiak-Bold'">Mød behandleren</p>
+            <p class="text-center text-lb display-5 " style="font-family:'Zodiak-Italic'">Charlotte Larsen</p>
+            <p class="fs-5 text-db px-5 pb-5">Velkommen til min skønhedssalon.
+                Mit navn er Charlotte Larsen, og jeg er indehaver af Skønhedssalon THEIA. Hvis du vil vide mere om mig
+                og min salon kan du læse mere her. </p>
+            <div class="text-center">
+                <?php include "kontaktKnap.php"; ?>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-wh">
+    <p class="text text-lb m-0 fw-medium display-5 text-center mt-3 my-4" style="font-family: Zodiak">Behandlinger</p>
+    <p class="text text-db my-3 kursiv fs-3 text-center">Skønhed starter med selvforkælelse</p>
+    <div class="row">
+        <div class="d-flex justify-content-center offset-lg-1 offset-md-1">
+            <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
+                <a class="btn btn-wd" href="behandlinger.php" role="button">Link</a>
+            </div>
+            <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
+                <a class="btn btn-wd" href="behandlinger.php" role="button">Link</a>
+            </div>
+            <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
+                <a class="btn btn-wd" href="behandlinger.php" role="button">Link</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>

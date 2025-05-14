@@ -66,6 +66,8 @@ require "settings/init.php";
             <?php include "kontaktKnap.php";?>
         </div>
         </div>
+    </div>
+</div>
 
 
         <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
