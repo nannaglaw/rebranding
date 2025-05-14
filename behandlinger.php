@@ -307,7 +307,67 @@ require "settings/init.php";
                     </div>
                 </div>
             </div>
-            <!-- Accordion 10 -->
+        </div>
+        <!-- Accordion 10 -->
+        <div class="col-12 col-lg-6 mt-lg-4 mt-md-4 mt-4">
+            <div class="accordion custom-accordion" id="accordionTen">
+                <div class="accordion-item border border-wd rounded shadow-sm">
+                    <h2 class="accordion-header" id="headingTen">
+                        <button class="accordion-button collapsed text-db fs-4" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                            Single Lashes
+                        </button>
+                    </h2>
+                    <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
+                         data-bs-parent="#accordionTen">
+                        <div class="accordion-body">
+                            <p class="px-lg-5 px-4 pt-3">Der er to typer Single Lashes som man kan vælge i mellem, <span class="fed">Laser Mink Lashes</span> og <span class="fed">Super Flat Lashes</span>, som har to forskellige udtryk.</p>
+                            <p class="px-lg-5 px-4"><span class="fed">Laser Mink Lashes</span> er syntetiske vipper, der ligner mink, men er lettere og blødere end traditionelle syntetiske vipper. De giver et naturligt og fyldigt look, perfekt til dem, der ønsker et elegant og blødt resultat uden tunge vipper.</p>
+                            <p class="px-lg-5 px-4"><span class="fed">Super Flat Single Lashes</span> er flade individuelle vipper, der dækker et større område af den naturlige vippe, hvilket skaber et fyldigt og dramatisk look med mindre vægt. De er ideelle til volumenvippebehandlinger, hvor du ønsker meget volumen.</p>
+                            <p class="px-lg-5 px-4 kursiv">Oplys, hvilke af vipperne du ønsker inden din behandling. </p>
+                            <p class="px-lg-5 px-4"><span class="fed">Behandlingen varer 100 min.. </span> Her bruges UV-lim, der hærder på 1-2 sekunder under UV-lys. Denne lim bliver ikke påvirket af temperatur og luftfugtighed, hvilket giver en længere holdbarhed.
+                                Da limen hærder hurtigt og uden dampe, er den ideel til sarte øjne, da den eliminerer generende tåreflåd.</p>
+
+                            <p class="px-lg-5 px-4"><span class="fed">Holdbarhed:</span> Typisk 3-4 uger</p>
+                            <p class="px-lg-5 px-4"><span class="fed">Pris:</span> 695 kr. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Accordion 11 -->
+        <div class="col-12 col-lg-6 mt-lg-4 mt-md-4 mt-4">
+            <div class="accordion custom-accordion" id="accordionNine>
+                    <div class=" accordion-item border border-wd rounded shadow-sm
+            ">
+            <h2 class="accordion-header" id="headingNine">
+                <button class="accordion-button collapsed text-db fs-4" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    Opfyldning af
+                    Single Lashes
+                </button>
+            </h2>
+            <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
+                 data-bs-parent="#accordionNine">
+                <div class="accordion-body">
+                    <p class="px-lg-5 px-4 pt-3"><span class="fed">Opfyldning efter 1 uge:</span><br>Hvis du ønsker, at dine vipper altid skal være perfekte, kan du få dem opfyldt med max én uges mellemrum.</p>
+                    <p class="px-lg-5 px-4 m-0"><span class="fed">Varighed:</span> 40 min.</p>
+                    <p class="px-lg-5 px-4"><span class="fed">Pris:</span> 295 kr. </p>
+                    <p class="px-lg-5 px-4 pt-3"><span class="fed">Opfyldning efter 2-3 uger:</span><br>Denne opfyldning er til dig der ønsker at få dine Single Lashes opfrisket, hvis du stadig har mere end 15 vipper på hvert øje tilbage. </p>
+                    <p class="px-lg-5 px-4 m-0"><span class="fed">Varighed:</span> 55 min.</p>
+                    <p class="px-lg-5 px-4"><span class="fed">Pris:</span> 400 kr. </p>
+                    <p class="px-lg-5 px-4 pt-3"><span class="fed">Opfyldning efter 4 uger:</span><br> Denne opfyldning er til dig der ønsker at få dine Single Lashes opfrisket, hvis du stadig har mere end 15 vipper på hvert øje tilbage efter 4 uger.</p>
+                    <p class="px-lg-5 px-4 m-0"><span class="fed">Varighed:</span> 75 min.</p>
+                    <p class="px-lg-5 px-4"><span class="fed">Pris:</span> 500 kr.
+                    <p class="px-lg-5 px-4"><span class="fedkursiv">OBS</span> Hvis der er mindre end 15 vipper tilbage på hver øje skal du bestille nyt sæt.</p></p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+            <!-- Accordion 12 -->
             <div class="col-12 col-lg-6 offset-lg-3 mt-lg-4 mt-md-4 mt-4">
                 <div class="accordion rounded-2 custom-accordion" id="accordionTen">
                     <div class="accordion-item border border-wd rounded shadow-sm">
@@ -331,7 +391,6 @@ require "settings/init.php";
             </div>
         </div>
     </div>
-</div>
 
 
 
