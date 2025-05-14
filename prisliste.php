@@ -272,7 +272,7 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="container  ">
+<div class="container ">
 <p class="text-center p-3 m-4 fs-4 text-lb fedkursiv">Altid tjek oplysningerne om din behandling ud inden du møder op
     til din tid, da der kan være vigtige ting du skal forbedre dig på inden!
 </p>
