@@ -9,7 +9,7 @@
                 <div class="ps-lg-5 pb-4">
                     <p class="text-lb fs-4 fed mb-2">Kontakt</p>
                     <p><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
-                    <p><span class="fed">Instagram:</span> @Salon_Theia</p>
+                    <p><span class="fed">Instagram:</span> @Salon_Theia </p>
                     <p><span class="fed">Adresse:</span> Skovsøgade 9,
                         4200 Slagelse</p>
 
