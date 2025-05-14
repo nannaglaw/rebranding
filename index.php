@@ -79,20 +79,25 @@ require "settings/init.php";
 <div class="container-fluid bg-wh">
     <p class="text text-lb m-0 fw-medium display-5 text-center mt-3 my-4" style="font-family: Zodiak">Behandlinger</p>
     <p class="text text-db my-3 kursiv fs-3 text-center">Skønhed starter med selvforkælelse</p>
-    <div class="row">
-        <div class="d-flex justify-content-center offset-lg-1 offset-md-1">
-            <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
-                <a class="btn btn-wd" href="behandlinger.php" role="button">Link</a>
-            </div>
-            <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
-                <a class="btn btn-wd" href="behandlinger.php" role="button">Link</a>
-            </div>
-            <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
-                <a class="btn btn-wd" href="behandlinger.php" role="button">Link</a>
-            </div>
-        </div>
 
+    <div class="row">
+        <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
+            <a class="btn btn-wd" href="behandlinger.php" role="button"><img src="img/nails.gif" alt="negle animation"
+                                                                             style="width:70px;height:70px;"></a>
+        </div>
+        <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
+            <a class="btn btn-wd" href="behandlinger.php" role="button"><img src="img/eyebrows.gif"
+                                                                             alt="øjnbryn animation"
+                                                                             style="width:70px;height:70px;"></a>
+        </div>
+        <div class="rounded rounded-2 col-12 col-lg-3 col-md-3">
+            <a class="btn btn-wd" href="behandlinger.php" role="button"><img src="img/eyelashes.gif"
+                                                                             alt="øjnvippe animation"
+                                                                             style="width:70px;height:70px;"></a>
+        </div>
     </div>
+
+
 </div>
 
 
