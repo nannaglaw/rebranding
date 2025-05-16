@@ -35,7 +35,7 @@ require "settings/init.php";
     <div class="row">
         <div class="justify-content-center align-items-center text-overlay">
 
-            <p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3"">Om Skønhedssalon THEIA</p>
+            <p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3">Om Skønhedssalon THEIA</p>
 
             <div class="col-12 col-lg-10 col-md-10 fs-5 text-db">
                 <p class="col-12 offset-lg-4 col-lg-7 offset-md-3 col-md-10 fs-5 text-lb">Vi startede vores rejse i 2022 under navnet <span
