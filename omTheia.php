@@ -61,6 +61,12 @@ require "settings/init.php";
             </div>
         </div>
     </div>
+
+        <div class="justify-content-center d-flex gap-4 pb-4">
+            <?php include "bookKnap.php"; ?>
+            <?php include "behandlingKnap.php"; ?>
+        </div>
+
 </div>
 
 <div class="container-fluid bg-wd">
@@ -86,6 +92,13 @@ require "settings/init.php";
             </div>
         </div>
     </div>
+</div>
+
+<div class="container">
+    <div>
+
+    </div>
+
 </div>
 
 
