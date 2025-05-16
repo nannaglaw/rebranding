@@ -7,9 +7,12 @@
         <div class="row">
             <div class="col-12 col-lg-6 text-center">
                 <div class="ps-lg-5 pb-4">
-                    <p class="text-lb fs-4 fed mb-2">Kontakt</p>
-                    <p><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
-                    <p><span class="fed">Instagram:</span> @Salon_Theia </p>
+                    <p class="text-lb fs-4 fed mb-4">Kontakt</p>
+                    <img src="img/phone.gif" alt="Telefon" style="width:48px;height:48px;">
+                    <p class="p-3"><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
+                    <img src="img/camera.gif" alt="Instagram" style="width:55px;height:55px;">
+                    <p class="pb-3"><span class="fed">Instagram:</span> @Salon_Theia </p>
+                    <img src="img/location.gif" alt="lokation" style="width:55px;height:55px;">
                     <p><span class="fed">Adresse:</span> Skovsøgade 9,
                         4200 Slagelse</p>
 
