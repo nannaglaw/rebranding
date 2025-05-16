@@ -25,9 +25,15 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
+<div class="position-relative">
+    <img src="img/omT.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/omTTelf.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
+</div>
+
 <div class="container">
     <div class="row">
-        <div class="justify-content-center align-items-center">
+        <div class="justify-content-center align-items-center text-overlay">
 
             <p class="text text-lb ps-lg-5 fw-medium display-5 text-center mt-5 mb-3" style="font-family: Zodiak">Om Skønhedssalon THEIA</p>
 
