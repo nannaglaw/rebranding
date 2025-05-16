@@ -274,3 +274,23 @@ font-family: 'Zodiak-BoldItalic';
 .nails {
   width: 100px;
 }
+
+.knapperne {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 80%;         /* Fylder hele col-bredden */
+  height: 200px;       /* Gør knappen højere */
+  background-color: #f1e7d8; /* Eller hvad du bruger */
+  border: none;
+  border-radius: 16px;
+
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.btn-wd:hover {
+  transform: scale(1.02); /* Lille effekt ved hover */
+}
