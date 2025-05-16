@@ -52,17 +52,17 @@ require "settings/init.php";
 
 <div class="container-fluid bg-wd">
     <div class="row">
-        <div class="col-12 col-lg-6">
-            <img class="ps-lg-5 ms-lg-5" src="img/profil.webp" alt="Billede af Charlotte Larsen">
+        <div class="col-lg-4 offset-lg-2 col-12 col-md-4">
+            <img class="ms-5 ms-lg-0 ms-md-0 my-5 img-fluid" src="img/profil.webp" alt="Billede af Charlotte Larsen">
         </div>
-        <div class="col-12 col-lg-6">
-            <p class="text-center text-lb display-6 pt-lg-5 pt-3" style="font-family:'Zodiak-Bold'">Mød behandleren</p>
+        <div class="col-12 col-lg-4 col-md-8">
+            <p class="text-center text-lb display-6 pt-lg-5 pt-3 m-0" style="font-family:'Zodiak-Bold'">Mød behandleren</p>
             <p class="text-center text-lb display-5 "style="font-family:'Zodiak-Italic'">Charlotte Larsen</p>
-            <p class="fs-5 text-db px-5 pb-5">Bag <span style="font-family:'Zodiak-Bold' ">Skønhedssalon THEIA</span> står en passioneret og professionel behandler, der er certificeret lash- og browlift-stylist
+            <p class="fs-5 text-db pb-5 px-4 text-start">Bag <span style="font-family:'Zodiak-Bold' ">Skønhedssalon THEIA</span> står en passioneret og professionel behandler, der er certificeret lash- og browlift-stylist
                 med fokus på smukke, holdbare resultater. Derudover er hun certificeret i Shellac-behandlinger og arbejder med stor omhu for
                 at sikre både æstetik og kvalitet i hver eneste behandling. Med faglig stolthed og øje for detaljen skabes en tryg og personlig
                 oplevelse <span style="font-family: 'Zodiak-BoldItalic'">– hver gang.</span></p>
-            <div class="text-center">
+            <div class="text-center m-0">
             <?php include "kontaktKnap.php";?>
         </div>
         </div>
