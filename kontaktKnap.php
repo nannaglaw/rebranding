@@ -3,7 +3,7 @@
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <!-- kontaktKnap.php -->
-<button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-5 px-5 py-2" style="font-family: Zodiak"  data-bs-toggle="modal" data-bs-target="#kontaktModal">
+<button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-5 px-lg-5 py-lg-2 px-5" style="font-family: Zodiak"  data-bs-toggle="modal" data-bs-target="#kontaktModal">
     Kontakt
 </button>
 

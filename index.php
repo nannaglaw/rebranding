@@ -72,7 +72,7 @@ require "settings/init.php";
                                                  href="omTheia.php">her.</a></p>
             <div class="d-flex justify-content-center align-items-center"><img class="img-fluid pt-3 pb-2" src="img/ii.webp" alt="ii"></div>
             <p class="fs-5 text-db px-5 pb-5">Jeg brænder for at fremhæve din naturlige skønhed med faglighed, præcision og æstetisk sans – altid med respekt for dig og dit udtryk.</p>
-            <div class="d-flex justify-content-center mb-3 mb-md-0 gap-5">
+            <div class="d-flex justify-content-center mb-3 mb-md-0 gap-lg-5 gap-2">
                 <?php include "omTheiaKnap.php"; ?>
                 <?php include "kontaktKnap.php"; ?>
             </div>
@@ -81,6 +81,7 @@ require "settings/init.php";
 </div>
 
 <div class="container bg-wh">
+
     <p class="text text-lb m-0 fw-medium display-5 text-center pt-5" style="font-family: Zodiak">Behandlinger</p>
     <p class="text text-db mb-3 kursiv fs-2 text-center">Skønhed starter med selvforkælelse</p>
 
@@ -102,10 +103,10 @@ require "settings/init.php";
         </div>
         <div class="py-5">
             <?php include "prislisteKnap.php"; ?>
-        </div>
+
     </div>
 </div>
-
+</div>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
