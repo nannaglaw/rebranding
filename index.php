@@ -80,21 +80,21 @@ require "settings/init.php";
     <p class="text text-lb m-0 fw-medium display-5 text-center mt-3 my-4" style="font-family: Zodiak">Behandlinger</p>
     <p class="text text-db my-3 kursiv fs-3 text-center">Skønhed starter med selvforkælelse</p>
 
-    <div class="row">
-        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4">
-            <a class="btn btn-wd p-4" href="behandlinger.php" role="button"><img src="img/nails.gif"
+    <div class="row text-center">
+        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 ">
+            <a class="btn btn-wd p-4 px-5" href="behandlinger.php" role="button"><img src="img/nails.gif"
                                                                                  alt="negle animation"
-                                                                                 style="width:70px;height:70px;"></a>
+                                                                                 style="width:75px;height:75px;"><p class="text text-db fs-3">Negle</p></a>
         </div>
         <div class="rounded rounded-2 col-12 col-lg-4 col-md-4">
-            <a class="btn btn-wd p-4" href="behandlinger.php" role="button"><img src="img/eyebrows.gif"
+            <a class="btn btn-wd p-4 px-5" href="behandlinger.php" role="button"><img src="img/eyebrows.gif"
                                                                                  alt="øjnbryn animation"
-                                                                                 style="width:70px;height:70px;"></a>
+                                                                                 style="width:75px;height:75px;"><p class="text text-db fs-3">Bryn</p></a>
         </div>
         <div class="rounded rounded-2 col-12 col-lg-4 col-md-4">
-            <a class="btn btn-wd p-4" href="behandlinger.php" role="button"><img src="img/eyelashes.gif"
+            <a class="btn btn-wd p-4 px-5" href="behandlinger.php" role="button"><img src="img/eyelashes.gif"
                                                                                  alt="øjnvippe animation"
-                                                                                 style="width:70px;height:70px;"></a>
+                                                                                 style="width:75px;height:75px;"><p class="text text-db fs-3">Vipper</p></a>
         </div>
     </div>
 </div>
