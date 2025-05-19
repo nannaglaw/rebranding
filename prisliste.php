@@ -25,7 +25,13 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3">Prisliste</p>
+<div class="position-relative">
+    <img src="img/prisliste4.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste4.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
+</div>
+
+<p class="text text-overlay text-db ps-lg-5 display-4 text-center mt-5 mb-3">Prisliste</p>
 
 <ul class="nav justify-content-center py-3 border-start ">
     <li class="nav-item">
@@ -55,8 +61,14 @@ require "settings/init.php";
 <p class="d-flex justify-content-center p-3 fs-6 text-lb fedkursiv">OBS! Ved aftagning af produkter fra andre behandlere
     pålægges et gebyr på min. 50 kr</p>
 
+<div class="position-relative">
+    <img src="img/prisliste.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
+</div>
+
 <div id="sec1">
-    <div class="container my-4">
+    <div class="container my-4 text-overlay">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row pb-2">
@@ -94,8 +106,14 @@ require "settings/init.php";
     </div>
 </div>
 
+<div class="position-relative">
+    <img src="img/prisliste2.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste2.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
+</div>
+
 <div id="sec2">
-    <div class="container my-4">
+    <div class="container my-4 text-overlay">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row fw-bold pb-2">
@@ -196,8 +214,15 @@ require "settings/init.php";
         </div>
     </div>
 </div>
+
+<div class="position-relative">
+    <img src="img/prisliste3.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste3.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
+</div>
+
 <div id="sec4">
-    <div class="container my-4">
+    <div class="container my-4 text-overlay">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row fw-bold pb-2">
@@ -276,7 +301,8 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="container ">
+
+<div class="container">
     <p class="text-center p-3 m-4 fs-4 text-lb fedkursiv">Altid tjek oplysningerne om din behandling ud inden du møder
         op
         til din tid, da der kan være vigtige ting du skal forbedre dig på inden!

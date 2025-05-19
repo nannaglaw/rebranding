@@ -50,8 +50,13 @@ require "settings/init.php";
     </li>
 </ul>
 
+<div class="position-relative">
+    <img src="img/prisliste.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 
-<div class="mt-3" id="sec1">
+</div>
+
+<div class="mt-3 text-overlay" id="sec1">
     <p class="fed text-lb text-center fs-2 my-lg-2">Brow- & Lash Lift</p>
     <div class="container">
         <div class="row">
@@ -150,7 +155,13 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="mt-5" id="sec2">
+<div class="position-relative">
+    <img src="img/prisliste2.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste2.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
+</div>
+
+<div class="mt-5 text-overlay" id="sec2">
     <p class="fed text-lb text-center fs-2 my-2">Vipper</p>
     <div class="container">
         <div class="row">
@@ -486,7 +497,12 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="mt-5" id="sec3">
+<div class="position-relative">
+    <img src="img/prisliste.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+</div>
+
+<div class="mt-5 text-overlay" id="sec3">
     <p class="fed text-lb text-center fs-2 my-2">Bryn</p>
     <div class="container">
         <div class="row">
@@ -561,7 +577,7 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="mt-5" id="sec4">
+<div class="mt-5 text-overlay" id="sec4">
     <p class="fed text-lb text-center fs-2 my-2">Manicure & Pedicure</p>
     <div class="container">
         <div class="row">
@@ -814,7 +830,12 @@ require "settings/init.php";
         </div>
     </div>
 </div>
-            <div class="mt-5" id="sec5">
+
+<div class="position-relative">
+    <img src="img/prisliste4.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste4.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+</div>
+            <div class="mt-5 text-overlay" id="sec5">
                 <p class="fed text-lb text-center fs-2 my-2">Japansk Lifting</p>
                 <div class="container">
                     <div class="row">
