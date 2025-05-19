@@ -36,9 +36,9 @@ require "settings/init.php";
 
     <div class="row">
         <div class="col-12 text-overlay text-center position-relative">
-            <p class="text text-lb m-0 fw-medium display-3" style="font-family: Zodiak">Velkommen til </p>
-            <p class="text text-lb m-0 fw-medium display-3" style="font-family: Zodiak">Skønhedssalon THEIA</p>
-            <p class="text text-lb m-0 fst-italic display-3" style="font-family: Zodiak">– din oase af skønhed og ro</p>
+            <p class="text text-lb m-0 extra display-2">Velkommen til </p>
+            <p class="text text-lb m-0 extra display-2">Skønhedssalon THEIA</p>
+            <p class="text text-lb m-0 kursiv display-2">– din oase af skønhed og ro</p>
 
             <p class="text-overlay text-db mt-3 fs-3" style="font-family: Zodiak">
                 Eksklusive behandlinger i rolige omgivelser – <br> negle, vipper & bryn

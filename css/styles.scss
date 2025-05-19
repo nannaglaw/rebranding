@@ -272,11 +272,15 @@ body {
 
 
 .fedkursiv {
-font-family: 'Zodiak-BoldItalic';
+font-family: 'Zodiak-BoldItalic', 'serif';
 }
 
 .kursiv {
-  font-family: 'Zodiak-Italic';
+  font-family: 'Zodiak-Italic', 'serif';
+}
+
+.extra {
+  font-family: 'Zodiak-Extrabold', 'serif';
 }
 
 .nails {
