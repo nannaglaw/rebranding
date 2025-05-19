@@ -1,7 +1,7 @@
 
 <body>
 <div class="container pt-5 bg-wh">
-    <div class="p-5 custom-border">
+    <div class="pt-5 custom-border">
         <div class="row">
             <div class="col-12 col-lg-6 text-center">
                 <div class="ps-lg-5 pb-4">
