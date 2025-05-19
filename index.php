@@ -64,14 +64,17 @@ require "settings/init.php";
             <img class="img-fluid ms-5 ms-lg-0 ms-md-0 my-5" src="img/profil.webp" alt="Billede af Charlotte Larsen">
         </div>
         <div class="col-12 col-lg-6 px-5 ">
-            <p class="text-center text-lb display-6 pt-lg-5 pt-3 m-0" style="font-family:'Zodiak-Bold'">Mød behandleren</p>
+            <p class="text-center text-lb display-6 pt-lg-5 pt-3 m-0" style="font-family:'Zodiak-Bold'">Mød
+                behandleren</p>
             <p class="text-center text-lb display-5 " style="font-family:'Zodiak-Italic'">Charlotte Larsen</p>
             <p class="fs-5 text-db px-5">Velkommen til min skønhedssalon.
                 Mit navn er Charlotte Larsen, og jeg er indehaver af Skønhedssalon THEIA. Hvis du vil vide mere om mig
                 og min salon kan du læse mere <a class="link-gr fed"
                                                  href="omTheia.php">her.</a></p>
-            <div class="d-flex justify-content-center align-items-center"><img class="img-fluid pt-3 pb-2" src="img/ii.webp" alt="ii"></div>
-            <p class="fs-5 text-db px-5 pb-5">Jeg brænder for at fremhæve din naturlige skønhed med faglighed, præcision og æstetisk sans – altid med respekt for dig og dit udtryk.</p>
+            <div class="d-flex justify-content-center align-items-center"><img class="img-fluid pt-3 pb-2"
+                                                                               src="img/ii.webp" alt="ii"></div>
+            <p class="fs-5 text-db px-5 pb-5">Jeg brænder for at fremhæve din naturlige skønhed med faglighed, præcision
+                og æstetisk sans – altid med respekt for dig og dit udtryk.</p>
             <div class="d-flex justify-content-center mb-3 mb-md-0 gap-lg-5 gap-2">
                 <?php include "omTheiaKnap.php"; ?>
                 <?php include "kontaktKnap.php"; ?>
@@ -85,28 +88,35 @@ require "settings/init.php";
     <p class="text text-lb m-0 fw-medium display-5 text-center pt-5" style="font-family: Zodiak">Behandlinger</p>
     <p class="text text-db mb-3 kursiv fs-2 text-center">Skønhed starter med selvforkælelse</p>
 
-    <div class="row text-center mt-5">
-        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 ">
+    <div class="row">
+        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5">
             <a class="btn knapperne btn-wd py-4 px-5" href="behandlinger.php" role="button"><img src="img/nails.gif"
-                                                                                 alt="negle animation"
-                                                                                 style="width:75px;height:75px;"><p class="text text-db fs-3">Negle</p></a>
+                                                                                                 alt="negle animation"
+                                                                                                 style="width:75px;height:75px;">
+                <p class="text text-db fs-3">Negle</p></a>
         </div>
-        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 ">
-            <a class="btn btn-wd knapperne p-4 px-5 " href="behandlinger.php" role="button"><img src="img/eyebrows.gif"
-                                                                                 alt="øjnbryn animation"
-                                                                                 style="width:75px;height:75px;"><p class="text text-db fs-3">Bryn</p></a>
+        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5">
+            <a class="btn btn-wd knapperne p-4 px-5 " href="behandlinger.php" role="button"><img
+                        src="img/eyebrows.gif"
+                        alt="øjnbryn animation"
+                        style="width:75px;height:75px;">
+                <p class="text text-db fs-3">Bryn</p></a>
         </div>
-        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 ">
-            <a class="btn btn-wd knapperne p-4 px-5" href="behandlinger.php" role="button"><img src="img/eyelashes.gif"
-                                                                                 alt="Øjenvippe animation"
-                                                                                 style="width:75px;height:75px;"><p class="text text-db fs-3">Vipper</p></a>
+        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5">
+            <a class="btn btn-wd knapperne p-4 px-5" href="behandlinger.php" role="button"><img
+                        src="img/eyelashes.gif"
+                        alt="Øjenvippe animation"
+                        style="width:75px;height:75px;">
+                <p class="text text-db fs-3">Vipper</p></a>
         </div>
-        <div class="py-5">
+        <div class="py-5 text-center">
             <?php include "prislisteKnap.php"; ?>
 
+        </div>
     </div>
 </div>
-</div>
+
+
 <?php include "footer.php"; ?>
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
