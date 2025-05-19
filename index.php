@@ -109,7 +109,7 @@ require "settings/init.php";
                         style="width:75px;height:75px;">
                 <p class="text text-db fs-3">Vipper</p></a>
         </div>
-        <div class="py-5 text-center">
+        <div class="d-grid col-4 mx-auto text-center pt-5">
             <?php include "prislisteKnap.php"; ?>
 
         </div>
