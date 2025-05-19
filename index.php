@@ -83,26 +83,32 @@ require "settings/init.php";
     </div>
 </div>
 
-<div class="container bg-wh">
+<div class="position-relative">
+    <img src="img/plante.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/plante.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 
-    <p class="text text-lb m-0 fw-medium display-5 text-center pt-5">Behandlinger</p>
-    <p class="text text-db mb-3 kursiv fs-2 text-center">Skønhed starter med selvforkælelse</p>
+</div>
+
+<div class="container">
+
+    <p class="text text-lb m-0 fw-medium display-5 text-center pt-5 text-overlay">Behandlinger</p>
+    <p class="text text-db mb-3 kursiv fs-2 text-center text-overlay">Skønhed starter med selvforkælelse</p>
 
     <div class="row">
-        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5 d-flex justify-content-center">
+        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5 d-flex justify-content-center text-overlay">
             <a class="btn knapperne btn-wd py-4 px-5" href="behandlinger.php" role="button"><img src="img/nails.gif"
                                                                                                  alt="negle animation"
                                                                                                  style="width:75px;height:75px;">
                 <p class="text text-db fs-3">Negle</p></a>
         </div>
-        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5 d-flex justify-content-center">
+        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5 d-flex justify-content-center text-overlay">
             <a class="btn btn-wd knapperne p-4 px-5 " href="behandlinger.php" role="button"><img
                         src="img/eyebrows.gif"
                         alt="øjenbryn animation"
                         style="width:75px;height:75px;">
                 <p class="text text-db fs-3">Bryn</p></a>
         </div>
-        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5 d-flex justify-content-center">
+        <div class="rounded rounded-2 col-12 col-lg-4 col-md-4 text-center mt-5 d-flex justify-content-center text-overlay">
             <a class="btn btn-wd knapperne p-4 px-5" href="behandlinger.php" role="button"><img
                         src="img/eyelashes.gif"
                         alt="Øjenvippe animation"
@@ -114,6 +120,57 @@ require "settings/init.php";
 
         </div>
     </div>
+</div>
+
+<div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner text-center">
+
+        <div class="carousel-item active">
+            <p class="fs-6 fst-italic text-center">Det er svært at finde en skønhedssalon i Slagelse, der både er billig og
+                professionel – men THEIA leverer virkelig! Jeg fik lavet negle til en super fair pris, og kvaliteten var
+                helt i top.</p>
+            <p>– Sara R.</p>
+        </div>
+
+        <div class="carousel-item">
+            <p class="fs-6 fst-italic text-center">Hvis du leder efter en skønhedssalon i Slagelse, så skal du vælge THEIA. Jeg fik
+                lavet både vipper og bryn og følte mig som en dronning. Super service og gode priser!</p>
+            <p>– Matilda V.F.</p>
+        </div>
+
+        <div class="carousel-item">
+            <p class="fs-6 fst-italic text-center">Jeg troede ærligt ikke, det var muligt at få så billig behandling i Slagelse, og
+                stadig føle, man er på et spaophold! THEIA er min nye favorit – især til bryn og negle.</p>
+            <p>– Cecilie M.</p>
+        </div>
+        <div class="carousel-item">
+            <p class="fs-6 fst-italic text-center">Elsker stemningen hos THEIA – roligt, pænt og hyggeligt. Det er klart Slagelses
+                bedste sted til negle og vipper. Og det bedste? Det er billigt uden at gå på kompromis med
+                kvaliteten!</p>
+            <p>– Emma V.</p>
+        </div>
+        <div class="carousel-item">
+            <p class="fs-6 fst-italic text-center">Jeg fik lavet gele-negle i Slagelse, og det er det bedste resultat, jeg
+                nogensinde har fået. THEIA tilbyder billige behandlinger, men man føler sig stadig luksuriøst behandlet.
+                Anbefales varmt!</p>
+            <p>– Line A.</p>
+        </div>
+        <div class="carousel-item">
+            <p class="fs-6 fst-italic text-center">JAlt spiller her – gode produkter, søde behandlere og fair priser. Jeg fik lavet
+                lash lift og bryn, og resultatet var fantastisk. Kan varmt anbefale til andre i Slagelse og omegn.</p>
+            <p>– Isabella F.</p>
+        </div>
+
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Forrige</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Næste</span>
+    </button>
 </div>
 
 
