@@ -25,7 +25,7 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<p class="text text-lb m-0 fw-medium display-5 text-center mt-3" style="font-family: Zodiak">Prisliste</p>
+<p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3">Prisliste</p>
 
 <ul class="nav justify-content-center py-3 border-start ">
     <li class="nav-item">
