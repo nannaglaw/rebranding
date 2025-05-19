@@ -52,7 +52,7 @@ require "settings/init.php";
 
 <div class="position-relative">
     <img src="img/prisliste.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
-    <img src="img/mTelefon.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 
 </div>
 
@@ -157,7 +157,7 @@ require "settings/init.php";
 
 <div class="position-relative">
     <img src="img/prisliste2.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
-    <img src="img/mTelefon.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste2.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 
 </div>
 
@@ -499,7 +499,7 @@ require "settings/init.php";
 
 <div class="position-relative">
     <img src="img/prisliste.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
-    <img src="img/mTelefon.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 </div>
 
 <div class="mt-5 text-overlay" id="sec3">
@@ -833,7 +833,7 @@ require "settings/init.php";
 
 <div class="position-relative">
     <img src="img/prisliste4.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
-    <img src="img/mTelefon.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste4.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 </div>
             <div class="mt-5 text-overlay" id="sec5">
                 <p class="fed text-lb text-center fs-2 my-2">Japansk Lifting</p>
