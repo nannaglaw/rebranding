@@ -238,6 +238,8 @@ body {
 .accordion-body {
   background-color: #EBE0CF;
   color: #2A1813;
+  margin-top: -10px;
+  border-color: #EBE0CF;
 }
 
 .accordion-header {
@@ -262,6 +264,12 @@ body {
   color: #2A1813;
   border-color: #EBE0CF;
 }
+
+.accordion-button {
+  border: none !important;
+  box-shadow: none !important;
+}
+
 
 .fedkursiv {
 font-family: 'Zodiak-BoldItalic';

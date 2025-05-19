@@ -1,6 +1,4 @@
 
-<link href="css/styles.css" rel="stylesheet">
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <div class="bg-wh">
 <a href="index.php"><img src="img/LogoTheia.webp" class="logo img-fluid mx-auto d-block my-3"></a>

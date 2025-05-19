@@ -29,7 +29,8 @@ require "settings/init.php";
 
 <ul class="nav justify-content-center py-3 border-start ">
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow- &
+        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow-
+            &
             Lash Lift</a>
     </li>
     <li class="nav-item">
@@ -41,7 +42,8 @@ require "settings/init.php";
            href="#sec3">Bryn</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec4">Mani- &
+        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec4">Mani-
+            &
             Pedicure</a>
     </li>
     <li class="nav-item">
@@ -54,42 +56,42 @@ require "settings/init.php";
     pålægges et gebyr på min. 50 kr</p>
 
 <div id="sec1">
-<div class="container my-4">
-    <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
-    <div class="bg-wd p-3 mb-3">
-        <div class="row pb-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1 fed ">Brow- & Lash lift</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-md-1">Tid</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-1 offset-lg-0 offset-md-1">Pris</div>
-        </div>
+    <div class="container my-4">
+        <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
+        <div class="bg-wd p-3 mb-3">
+            <div class="row pb-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1 fed ">Brow- & Lash lift</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-md-1">Tid</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 fed offset-1 offset-lg-0 offset-md-1">Pris</div>
+            </div>
 
-        <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow & Lash Lift inkl. farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">55 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">800 kr.</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow Lift uden farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">30 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">400 kr.</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow Lift inkl. farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">450 kr.</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Lash Lift uden farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">400 kr.</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Lash Lift inkl. farve</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">60 min.</div>
-            <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">450 kr.</div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow & Lash Lift inkl. farve</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">55 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">800 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow Lift uden farve</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">30 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">400 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Brow Lift inkl. farve</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">450 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Lash Lift uden farve</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">40 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">400 kr.</div>
+            </div>
+            <div class="row py-2">
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Lash Lift inkl. farve</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">60 min.</div>
+                <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">450 kr.</div>
+            </div>
         </div>
     </div>
-</div>
 </div>
 
 <div id="sec2">
@@ -205,7 +207,7 @@ require "settings/init.php";
             </div>
 
             <div class="row py-2">
-                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Shellac hel farve	</div>
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Shellac hel farve</div>
                 <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">60 min.</div>
                 <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">350 kr.</div>
             </div>
@@ -235,7 +237,9 @@ require "settings/init.php";
                 <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">395 kr.</div>
             </div>
             <div class="row py-2">
-                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Opfyldning af forstærkning m. hel farve eller design</div>
+                <div class="col-4 col-md-4 col-lg-4 fs-5 offset-lg-1">Opfyldning af forstærkning m. hel farve eller
+                    design
+                </div>
                 <div class="col-3 col-md-3 col-lg-3 fs-5 offset-md-1">95 min.</div>
                 <div class="col-3 col-md-3 col-lg-3 fs-5 offset-1 offset-lg-0 offset-md-1">370 kr.</div>
             </div>
@@ -273,13 +277,14 @@ require "settings/init.php";
 </div>
 
 <div class="container ">
-<p class="text-center p-3 m-4 fs-4 text-lb fedkursiv">Altid tjek oplysningerne om din behandling ud inden du møder op
-    til din tid, da der kan være vigtige ting du skal forbedre dig på inden!
-</p>
+    <p class="text-center p-3 m-4 fs-4 text-lb fedkursiv">Altid tjek oplysningerne om din behandling ud inden du møder
+        op
+        til din tid, da der kan være vigtige ting du skal forbedre dig på inden!
+    </p>
     <div class="justify-content-center d-flex gap-4">
         <?php include "bookKnap.php"; ?>
-    <?php include "behandlingKnap.php"; ?>
-</div>
+        <?php include "behandlingKnap.php"; ?>
+    </div>
 </div>
 
 
