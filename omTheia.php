@@ -72,14 +72,14 @@ require "settings/init.php";
 <div class="container-fluid bg-wd">
     <div class="row">
         <div class="col-lg-5 offset-lg-1 col-12 col-md-4">
-            <img class="ms-5 ms-lg-0 ms-md-0 my-5 img-fluid rounded-3" src="img/behandler.webp" alt="Billede af Charlotte Larsen">
+            <img class="ms-lg-0 ms-md-0 my-5 img-fluid rounded-3" src="img/behandler.webp" alt="Billede af Charlotte Larsen">
         </div>
         <div class="col-12 col-lg-6 col-md-8">
-            <p class="text-center text-db display-6 pt-lg-5 pt-3 m-0 fed">Mød
+            <p class="text-center text-db display-6 pt-lg-5 m-0 fed">Mød
                 behandleren</p>
             <p class="text-center text-db display-5 kursiv">Charlotte Larsen</p>
             <div class="col-lg-9 offset-lg-2">
-            <p class="fs-5 text-lb pb-5 px-4 text-start">Bag <span style="font-family:'Zodiak-Bold' ">Skønhedssalon THEIA</span>
+            <p class="fs-5 text-lb px-4 py-lg-2 text-start">Bag <span style="font-family:'Zodiak-Bold' ">Skønhedssalon THEIA</span>
                 står en passioneret og professionel behandler, der er certificeret lash- og browlift-stylist
                 med fokus på smukke, holdbare resultater. Derudover er hun certificeret i Shellac-behandlinger og
                 arbejder med stor omhu for
@@ -87,7 +87,7 @@ require "settings/init.php";
                 skabes en tryg og personlig
                 oplevelse <span style="font-family: 'Zodiak-BoldItalic'">– hver gang.</span></p>
             </div>
-            <div class="text-center m-0">
+            <div class="text-center py-4">
                 <?php include "kontaktKnap.php"; ?>
             </div>
         </div>
