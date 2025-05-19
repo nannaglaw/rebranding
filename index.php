@@ -61,7 +61,7 @@ require "settings/init.php";
 <div class="container-fluid bg-wd">
     <div class="row">
         <div class="col-12 col-lg-5 offset-lg-1">
-            <img class="img-fluid ms-5 ms-lg-0 ms-md-0 my-5" src="img/behandler.webp" alt="Billede af Charlotte Larsen">
+            <img class="img-fluid ms-5 ms-lg-0 ms-md-0 my-5 rounded-3" src="img/behandler.webp" alt="Billede af Charlotte Larsen">
         </div>
         <div class="col-12 col-lg-6 px-5 ">
             <p class="text-center text-lb display-6 pt-lg-5 pt-3 m-0 fed">Mød
@@ -73,7 +73,7 @@ require "settings/init.php";
                                                  href="omTheia.php">her.</a></p>
             <div class="d-flex justify-content-center align-items-center"><img class="img-fluid pt-3 pb-2"
                                                                                src="img/ii.webp" alt="ii"></div>
-            <p class="fs-5 text-db px-5 pb-5">Jeg brænder for at fremhæve din naturlige skønhed med faglighed, præcision
+            <p class="fs-5 text-db px-5 pb-3">Jeg brænder for at fremhæve din naturlige skønhed med faglighed, præcision
                 og æstetisk sans – altid med respekt for dig og dit udtryk.</p>
             <div class="d-flex justify-content-center mb-3 mb-md-0 gap-lg-5 gap-2">
                 <?php include "omTheiaKnap.php"; ?>
