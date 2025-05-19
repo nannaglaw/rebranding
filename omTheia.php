@@ -71,8 +71,8 @@ require "settings/init.php";
 
 <div class="container-fluid bg-wd">
     <div class="row">
-        <div class="col-lg-4 offset-lg-2 col-12 col-md-4">
-            <img class="ms-5 ms-lg-0 ms-md-0 my-5 img-fluid" src="img/profil.webp" alt="Billede af Charlotte Larsen">
+        <div class="col-lg-5 offset-lg-1 col-12 col-md-4">
+            <img class="ms-5 ms-lg-0 ms-md-0 my-5 img-fluid rounded-3" src="img/behandler.webp" alt="Billede af Charlotte Larsen">
         </div>
         <div class="col-12 col-lg-6 col-md-8">
             <p class="text-center text-db display-6 pt-lg-5 pt-3 m-0 fed">Mød
