@@ -342,6 +342,7 @@ require "settings/init.php";
                                 Single Lashes
                             </button>
                         </h2>
+
                         <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                              data-bs-parent="#accordionNine">
                             <div class="accordion-body">
