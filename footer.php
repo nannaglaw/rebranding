@@ -59,7 +59,7 @@
                 <h5 class="modal-title text-lb" id="kontaktModalLabel" style="font-family: Lato">KONTAKT</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Luk"></button>
             </div>
-            <div class="modal-body bg-wh" style="font-family: Zodiak">
+            <div class="modal-body bg-wh text-center" style="font-family: Zodiak">
                 <p class="fw-bold text-lb">Kontakt</p>
                 <p>Du er alt velkommen til at kontakte os, hvis du har yderligere spørgsmål.</p>
                 <p class="mt-5"><span class="fw-medium">Telefon:</span>+45 61 47 73 00 </p>
