@@ -79,7 +79,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                              data-bs-parent="#accordionOne">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Et Brow Lift er en behandling, der løfter og former brynene
                                     for at give et mere åbent, friskt og løftet udtryk.
                                     Velegnet til dig der ønsker at spare tid på daglig brynpleje, hvis du har flade
@@ -110,7 +110,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                              data-bs-parent="#accordionTwo">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Et Lash Lift løfter og bukker dine naturlige vipper fra
                                     roden, hvilket giver et smukt, åbent blik uden behov for vippebukker eller
                                     extensions.
@@ -142,7 +142,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                              data-bs-parent="#accordionThree">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3"><span class="fed">Før:</span> Til behandlingen Lash Lift er
                                     det vigtigt at der ikke er nogle produkter på vipperne, herunder mascara. Hvis du
                                     fjerne mascara lige inden behandlingen anbefaler vi at bruge en øjenmakeupfjerne som
@@ -184,7 +184,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                              data-bs-parent="#accordionFour">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">W lash-extensions giver fyldige vipper, der er fyldigere
                                     end single lashes, men mindre tætte end volumen lashes.
                                     Vipperne er formet i et W, hvor de krydser hinanden for et smukt resultat.</p>
@@ -215,7 +215,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                              data-bs-parent="#accordionFive">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3"><span class="fed">Opfyldning efter 2-3 uger:</span><br>
                                     Denne opfyldning er til dig der ønsker at få dine W lashes opfrisket, hvis du stadig
                                     har mere end 15 vipper på hvert øje tilbage. </p>
@@ -247,7 +247,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
                              data-bs-parent="#accordionSix">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Premade Volume-Lashes er vipper, der allerede er forberedt
                                     og samlet i små vifteformede grupper, som er klar til at blive påført på dine
                                     naturlige vipper. I modsætning til individuelle vipper, som påsættes én ad gangen,
@@ -282,7 +282,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
                              data-bs-parent="#accordionSeven">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3"><span class="fed">Opfyldning efter 1 uge:</span><br> Hvis
                                     du ønsker, at dine vipper altid skal være perfekte, kan du få dem opfyldt med max én
                                     uges mellemrum. </p>
@@ -319,7 +319,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
                              data-bs-parent="#accordionEight">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Der er to typer Single Lashes som man kan vælge i mellem,
                                     <span class="fed">Laser Mink Lashes</span> og <span
                                             class="fed">Super Flat Lashes</span>, som har to forskellige udtryk.</p>
@@ -362,7 +362,7 @@ require "settings/init.php";
 
                         <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                              data-bs-parent="#accordionNine">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3"><span class="fed">Opfyldning efter 1 uge:</span><br>Hvis du
                                     ønsker,
                                     at dine vipper altid skal være perfekte, kan du få dem opfyldt med max én uges
@@ -406,7 +406,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                              data-bs-parent="#accordionTen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Aftagning af vipper er <span class="kursiv">gratis</span>
                                     hvis
                                     du har fået lavet vipperne her i skønhedssalonen. Hvis du ønsker aftagning af vipper
@@ -434,7 +434,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven"
                              data-bs-parent="#accordionEleven">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Farvning af vipper giver dine øjne et mere defineret og
                                     vågent
                                     look
@@ -468,7 +468,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve"
                              data-bs-parent="#accordionTwelve">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3"><span class="fed">Før:</span>Til behandlingen
                                     Eyelash-extensions er
                                     det vigtigt at der ikke er
@@ -526,7 +526,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen"
                              data-bs-parent="#accordionThirteen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">At plukke sine bryn med en pincet giver præcise og
                                     definerede bryn, da du kan fjerne
                                     de enkelte hår, der ikke passer til din ønskede form. Det giver et skarpere og mere
@@ -558,7 +558,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen"
                              data-bs-parent="#accordionFourteen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Farvning af øjenbryn giver et mere defineret og fyldigt
                                     look,
                                     samtidig med at det sparer tid på makeup. Det er ideelt for dem med lyse eller tynde
@@ -601,7 +601,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFifteen"
                              data-bs-parent="#accordionFifteen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db ">
                                 <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer valgfri shellac-farve på dine
                                     naturlige negle,
                                     samt formning af neglene og klipning af neglebånd.</p>
@@ -632,7 +632,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseSixteen" class="accordion-collapse collapse" aria-labelledby="headingSixteen"
                              data-bs-parent="#accordionSixteen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer valgfri shellac-farve på egne
                                     negle,
                                     formning af neglene samt klip af neglebånd. Denne behandling er til dig, der ønsker
@@ -667,7 +667,7 @@ require "settings/init.php";
                         <div id="collapseSeventeen" class="accordion-collapse collapse"
                              aria-labelledby="headingSeventeen"
                              data-bs-parent="#accordionSeventeen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer aftagning af nuværende shellac,
                                     samt formning
                                     af neglene og klipning af neglebånd. Herefter påføres ny valgfri shellac-farve på
@@ -697,7 +697,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseEighteen" class="accordion-collapse collapse" aria-labelledby="headingEighteen"
                              data-bs-parent="#accordionEighteen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer formning af neglene, samt klipning
                                     af neglebånd og forstærkning.
                                     Herefter påføres ny valgfri shellac-farve evt. med design. </p>
@@ -729,7 +729,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseNineteen" class="accordion-collapse collapse" aria-labelledby="headingNineteen"
                              data-bs-parent="#accordionNineteen">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer opfyldning af forstærkning samt
                                     påføring
                                     af ny valgfri shellac-farve evt. med design. </p>
@@ -761,7 +761,7 @@ require "settings/init.php";
                         </h2>
                         <div id="collapseTwenty" class="accordion-collapse collapse" aria-labelledby="headingTwenty"
                              data-bs-parent="#accordionTwenty">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Behandlingen inkluderer valgfri shellac-farve på dine
                                     naturlige negle,
                                     samt formning af neglene og klipning af neglebånd.</p>
@@ -792,7 +792,7 @@ require "settings/init.php";
                         <div id="collapseTwentyone" class="accordion-collapse collapse"
                              aria-labelledby="headingTwentyone"
                              data-bs-parent="#accordionTwentyone">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Shellac fjernes skånsomt ved at file det øverste lag let og
                                     derefter opløse lakken med acetone-indpakkede vatrondeller i 10-15 minutter.
                                     Herefter skubbes
@@ -823,7 +823,7 @@ require "settings/init.php";
                         <div id="collapseTwentytwo" class="accordion-collapse collapse"
                              aria-labelledby="headingTwentytwo"
                              data-bs-parent="#accordionTwentytwo">
-                            <div class="accordion-body">
+                            <div class="accordion-body text-db">
                                 <p class="px-lg-5 px-4 pt-3">Vi arbejder med kvalitetsmærker som CND, Kandii og N4Y for
                                     at sikre smukke,
                                     holdbare resultater. Med disse brands får du professionelle behandlinger, der både
@@ -860,7 +860,7 @@ require "settings/init.php";
                                     <div id="collapseTwentytree" class="accordion-collapse collapse"
                                          aria-labelledby="headingTwentytree"
                                          data-bs-parent="#accordionTwentytree">
-                                        <div class="accordion-body">
+                                        <div class="accordion-body text-db">
                                             <p class="px-lg-5 px-4 pt-3">Japansk Lifting er en afstressende og
                                                 opstrammende ansigtsbehandling, der både udrenser
                                                 og stimulerer huden. Denne behandling kombinerer massageteknikker, der
@@ -882,13 +882,13 @@ require "settings/init.php";
                 </div>
             </div>
             <div class="container">
-                <p class="text-center p-3 mt-5 fs-4 text-lb fedkursiv">Hvis du har lyst til at vide mere om din
+                <p class="text-center p-3 mt-5 fs-4 text-db fedkursiv">Hvis du har lyst til at vide mere om din
                     behandler
-                    og om skønhedssalonen, <br>kan du læse mere under Om THEIA!
+                    og om skønhedssalonen, <br>kan du læse mere under <a class="text-db" href="omTheia.php">Om THEIA!</a>
 
                 </p>
                 <div class="justify-content-center d-flex gap-4">
-                    <?php include "omTheiaKnap.php"; ?>
+                    <?php include "bookKnap.php"; ?>
                 </div>
             </div>
 
