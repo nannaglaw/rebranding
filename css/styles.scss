@@ -188,56 +188,63 @@ body {
 .modal-footer {
   border: none;
 }
-/* Mobil: 0–767.98px */
+/* Small - mobil: max 767.98px */
 @media (max-width: 767.98px) {
+  .monstera-bg {
+    display: none !important;
+  }
+
   .telefon-bg {
-    display: block;
-    position: absolute;
+    display: block !important;
     opacity: 0.3;
-    width: 100%;
-    z-index: -1;
-    pointer-events: none;
-  }
-
-  .tablet-bg,
-  .monstera-bg {
-    display: none !important;
-  }
-}
-
-/* Tablet: 768px–991.98px */
-@media (min-width: 768px) and (max-width: 991.98px) {
-  .tablet-bg {
-    display: block;
     position: absolute;
-    opacity: 0.25;
     width: 100%;
     z-index: -1;
-    pointer-events: none;
   }
 
-  .telefon-bg,
-  .monstera-bg {
-    display: none !important;
-  }
-}
-
-/* Desktop: 992px og op */
-@media (min-width: 992px) {
-  .monstera-bg {
-    display: block;
-    position: absolute;
-    opacity: 0.3;
-    width: 100%;
-    z-index: -1;
-    pointer-events: none;
-  }
-
-  .telefon-bg,
   .tablet-bg {
     display: none !important;
   }
 }
+
+/* Medium - tablet: mellem 768px og 1199.98px */
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .monstera-bg {
+    display: none !important;
+  }
+
+  .telefon-bg {
+    display: none !important;
+  }
+
+  .tablet-bg {
+    display: block !important;
+    opacity: 0.3;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  }
+}
+
+/* Large - desktop: 1200px og op */
+@media (min-width: 1200px) {
+  .monstera-bg {
+    display: block !important;
+    opacity: 0.3;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  }
+
+  .telefon-bg {
+    display: none !important;
+  }
+
+  .tablet-bg {
+    display: none !important;
+  }
+}
+
 
 
 .text-overlay {
