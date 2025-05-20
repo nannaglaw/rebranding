@@ -19,6 +19,8 @@ require "settings/init.php";
     <link href="css/styles.css" rel="stylesheet">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://kit.fontawesome.com/056ca3e665.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body class="bg-wh">
@@ -35,25 +37,25 @@ require "settings/init.php";
 
 <ul class="nav justify-content-center py-3 border-start ">
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow-
+        <a class="nav-link navlink active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow-
             &
             Lash Lift</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page"
+        <a class="nav-link navlink active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page"
            href="#sec2">Vipper</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page"
+        <a class="nav-link navlink active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page"
            href="#sec3">Bryn</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec4">Mani-
+        <a class="nav-link navlink active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec4">Mani-
             &
             Pedicure</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active text-lb fs-5 fed border-start border-end border-2 border-lb" aria-current="page"
+        <a class="nav-link navlink active text-lb fs-5 fed border-start border-end border-2 border-lb" aria-current="page"
            href="#sec5">Japansk Lifting</a>
     </li>
 </ul>
@@ -312,6 +314,16 @@ require "settings/init.php";
         <?php include "behandlingKnap.php"; ?>
     </div>
 </div>
+
+
+<div class="sticky-bottom d-md-none d-lg-none">
+
+    <a href="https://klinik-skoen.planway.com/" class="btn book-btn btn-primary w-100"><i
+                class="fa-solid fa-calendar-days pe-4" style="color: #ffffff;"></i><span class="btn-text">Book en tid her</span><i
+                class="fa-solid fa-calendar-days ps-4" style="color: #ffffff;"></i></a>
+
+</div>
+
 
 
 <?php include "footer.php"; ?>
