@@ -19,7 +19,7 @@
                 <p><span class="fw-medium">Instagram:</span> @Salon_Theia</p>
             </div>
             <div class="modal-footer bg-wh">
-                <button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-5 px-5 py-2" style="font-family: Zodiak" data-bs-dismiss="modal">Luk</button>
+                <button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-4 px-5 py-2" style="font-family: Zodiak" data-bs-dismiss="modal">Luk</button>
             </div>
         </div>
     </div>
