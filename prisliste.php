@@ -68,7 +68,7 @@ require "settings/init.php";
 </div>
 
 <div id="sec1">
-    <div class="container my-4 text-overlay">
+    <div class="container my-4 text-overlay text-db">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row pb-2">
@@ -113,7 +113,7 @@ require "settings/init.php";
 </div>
 
 <div id="sec2">
-    <div class="container my-4 text-overlay">
+    <div class="container my-4 text-overlay text-db">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row fw-bold pb-2">
@@ -192,7 +192,7 @@ require "settings/init.php";
 </div>
 
 <div id="sec3">
-    <div class="container my-4">
+    <div class="container my-4 text-db">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row fw-bold pb-2">
@@ -222,7 +222,7 @@ require "settings/init.php";
 </div>
 
 <div id="sec4">
-    <div class="container my-4 text-overlay">
+    <div class="container my-4 text-overlay text-db">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row fw-bold pb-2">
@@ -283,7 +283,7 @@ require "settings/init.php";
 </div>
 
 <div id="sec5">
-    <div class="container my-4">
+    <div class="container my-4 text-db">
         <!-- PRISLISTE SEKTIONSOVERSKRIFT -->
         <div class="bg-wd p-3 mb-3">
             <div class="row fw-bold pb-2">
