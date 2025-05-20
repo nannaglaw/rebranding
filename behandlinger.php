@@ -471,19 +471,17 @@ require "settings/init.php";
                         <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve"
                              data-bs-parent="#accordionTwelve">
                             <div class="accordion-body text-db">
-                                <p class="px-lg-5 px-4 pt-3"><span class="fed">Før:</span>Til behandlingen
-                                    Eyelash-extensions er
+                                <p class="px-lg-5 px-4 pt-3"><span class="fed">Før:</span> Til vippe-behandlinger er
                                     det vigtigt at der ikke er
                                     nogle produkter på vipperne, herunder mascara. Hvis du fjerne mascara lige inden
                                     behandlingen anbefaler vi at bruge en
-                                    øjenmakeupfjerne som ikke indeholder olie, for det bedst mulige resultat af
+                                    øjenmakeupfjerner som ikke indeholder olie, for det bedst mulige resultat af
                                     behandlingen.
                                 </p>
-                                <p class="px-lg-5 px-4">Derudover må du ikke have kontaktlinser i under
-                                    behandlingen. </p>
+                                <p class="px-lg-5 px-4">Derudover må du ikke have kontaktlinser i
+                                    under behandlingen. </p>
                                 <p class="px-lg-5 px-4"><span class="fed">Efter:</span> Efter at have fået lash
-                                    extensions,
-                                    bør
+                                    extensions, bør
                                     du undgå vand på vipperne i de
                                     første 24-48 timer, da limen skal hærde. Brug ikke olieholdige produkter eller
                                     mascara
