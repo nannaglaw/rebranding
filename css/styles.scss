@@ -353,3 +353,36 @@ font-family: 'Zodiak-BoldItalic', 'serif';
 .carousel-control-next .custom-arrow {
   right: 1rem;
 }
+
+.sticky-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #a3836b;
+  padding: 0.5rem;
+  z-index: 1000;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sticky-bottom a {
+  color: #fff;
+  background-color: #a3836b;
+  border: none;
+  font-weight: bold;
+}
+
+.book-btn:hover {
+  background-color: #8c6d58;
+  text-decoration: underline;
+
+}
+
+.book-btn:active {
+  background-color: #664b3c;
+  text-decoration: underline;
+}
+
+.btn-text{
+text-decoration: underline;
+}
