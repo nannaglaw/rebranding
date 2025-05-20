@@ -8,12 +8,15 @@
                     <p class="text-db fs-4 fed mb-4">Kontakt</p>
                     <img src="img/phone.gif" alt="Telefon" style="width:48px;height:48px;">
                     <p class="p-3 text-lb"><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
+                    <a href="https://www.instagram.com/klinik_s.k.o.n/">
                     <img src="img/camera.gif" alt="Instagram" style="width:55px;height:55px;">
                     <p class="pb-3 text-lb"><span class="fed">Instagram:</span> @Salon_Theia </p>
+                    </a>
+                    <a href="https://www.google.com/maps/place/Skovs%C3%B8gade+9,+4200+Slagelse/@55.4032068,11.3544408,17z/data=!3m1!4b1!4m6!3m5!1s0x464d617c0ddf17b5:0x4e6fdabb9a326701!8m2!3d55.4032038!4d11.3570211!16s%2Fg%2F11c19xck96?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D">
                     <img src="img/location.gif" alt="lokation" style="width:55px;height:55px;">
                     <p class="text-lb"><span class="fed">Adresse:</span> Skovsøgade 9,
                         4200 Slagelse</p>
-
+                    </a>
                 </div>
             </div>
             <div class="col-12 col-lg-4">
