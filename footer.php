@@ -5,9 +5,12 @@
         <div class="row">
             <div class="col-12 col-lg-6 text-center">
                 <div class="ps-lg-5 pb-4">
-                    <p class="text-db fs-4 fed mb-4">Kontakt</p>
-                    <img src="img/phone.gif" alt="Telefon" style="width:48px;height:48px;">
-                    <p class="p-3 text-lb"><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
+                    <p class="text-db fs-4 fed mb-4 pb-3">Kontakt</p>
+                    <a href="#" data-bs-toggle="modal" data-bs-target="#kontaktModal" class="text-decoration-none">
+                        <img src="img/phone.gif" alt="Telefon" style="width:48px;height:48px;">
+                        <p class="p-3 text-lb mb-0"><span class="fed">Telefon:</span> +45 61 47 73 00</p>
+                    </a>
+
                     <a href="https://www.instagram.com/klinik_s.k.o.n/">
                     <img src="img/camera.gif" alt="Instagram" style="width:55px;height:55px;">
                     <p class="pb-3 text-lb"><span class="fed">Instagram:</span> @Salon_Theia </p>
@@ -40,6 +43,33 @@
         </div>
     </div>
 
+</div>
+
+
+
+<!-- kontaktKnap.php -->
+<button type="button" class="btn btn-outline-db rounded-4 text-lb btn-lg fw-medium px-lg-5 py-lg-2 px-5 d-none" style="font-family: Zodiak"  data-bs-toggle="modal" data-bs-target="#kontaktModal">
+    Kontakt
+</button>
+
+<div class="modal fade" id="kontaktModal" tabindex="-1" aria-labelledby="kontaktModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-wh">
+                <h5 class="modal-title text-lb" id="kontaktModalLabel" style="font-family: Lato">KONTAKT</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Luk"></button>
+            </div>
+            <div class="modal-body bg-wh" style="font-family: Zodiak">
+                <p class="fw-bold text-lb">Kontakt</p>
+                <p>Du er alt velkommen til at kontakte os, hvis du har yderligere spørgsmål.</p>
+                <p class="mt-5"><span class="fw-medium">Telefon:</span>+45 61 47 73 00 </p>
+                <p><span class="fw-medium">Instagram:</span> @Salon_Theia</p>
+            </div>
+            <div class="modal-footer bg-wh">
+                <button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-5 px-5 py-2" style="font-family: Zodiak" data-bs-dismiss="modal">Luk</button>
+            </div>
+        </div>
+    </div>
 </div>
 
 
