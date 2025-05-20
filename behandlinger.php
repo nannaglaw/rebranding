@@ -26,7 +26,13 @@ require "settings/init.php";
 
 <?php include "navbar.php"; ?>
 
-<p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3">Behandlinger</p>
+<div class="position-relative">
+    <img src="img/prisliste4.webp" class="d-block img-fluid monstera-bg justify-content-center" alt="monstera blad">
+    <img src="img/prisliste4.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
+
+</div>
+
+<p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3 text-overlay">Behandlinger</p>
 <ul class="nav justify-content-center pt-3 border-start pb-5">
     <li class="nav-item">
         <a class="nav-link active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow-

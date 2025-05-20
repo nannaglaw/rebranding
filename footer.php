@@ -22,14 +22,14 @@
                 <p class="text-center">Åbningstiderne kan variere, <br> tjek derfor booking <a class="link-gr fed"
                                                                       href="https://klinik-skoen.planway.com/">her.</a>
                 </p>
-                    <div class="col-lg-9 offset-lg-3">
-                <p class="mb-3 ps-3"><span class="fed">Mandag:</span> 9.30 - 17.30 </p>
-                <p class="mb-3 ps-3"><span class="fed">Tirsdag:</span> 9.30 - 17.30</p>
-                <p class="mb-3 ps-3"><span class="fed">Onsdag:</span> 9.30 - 17.30 </p>
-                <p class="mb-3 ps-3"><span class="fed">Torsdag:</span> 9.30 - 20.00</p>
-                <p class="mb-3 ps-3"><span class="fed">Fredag:</span> 9.30 - 17.30</p>
-                <p class="mb-3 ps-3"><span class="fed">Lørdag:</span> Efter aftale</p>
-                <p class="mb-3 ps-3"><span class="fed">Søndag:</span> LUKKET</p>
+                    <div class="col-lg-9 offset-lg-3 offset-3 offset-md-4">
+                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Mandag:</span> 9.30 - 17.30 </p>
+                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Tirsdag:</span> 9.30 - 17.30</p>
+                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Onsdag:</span> 9.30 - 17.30 </p>
+                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Torsdag:</span> 9.30 - 20.00</p>
+                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Fredag:</span> 9.30 - 17.30</p>
+                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Lørdag:</span> Efter aftale</p>
+                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Søndag:</span> LUKKET</p>
                 </div>
                 </div>
             </div>

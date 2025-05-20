@@ -188,34 +188,10 @@ body {
 .modal-footer {
   border: none;
 }
-
-@media (max-width: 767.98px) {
-  .monstera-bg {
-    display: none !important;
-  }
-}
-
+/* Mobil: 0–767.98px */
 @media (max-width: 767.98px) {
   .telefon-bg {
-    position: absolute;
-    opacity: 0.3;
-    width: 100%;
-    z-index: -1;
-    pointer-events: none;
-
-  }
-
-}
-@media (min-width: 768px) {
-  .telefon-bg {
-    display: none !important;
-  }
-}
-
-
-
-@media (min-width: 768px) {
-  .monstera-bg {
+    display: block;
     position: absolute;
     opacity: 0.3;
     width: 100%;
@@ -223,7 +199,46 @@ body {
     pointer-events: none;
   }
 
+  .tablet-bg,
+  .monstera-bg {
+    display: none !important;
+  }
 }
+
+/* Tablet: 768px–991.98px */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .tablet-bg {
+    display: block;
+    position: absolute;
+    opacity: 0.25;
+    width: 100%;
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  .telefon-bg,
+  .monstera-bg {
+    display: none !important;
+  }
+}
+
+/* Desktop: 992px og op */
+@media (min-width: 992px) {
+  .monstera-bg {
+    display: block;
+    position: absolute;
+    opacity: 0.3;
+    width: 100%;
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  .telefon-bg,
+  .tablet-bg {
+    display: none !important;
+  }
+}
+
 
 .text-overlay {
   position: relative;
@@ -305,4 +320,8 @@ font-family: 'Zodiak-BoldItalic', 'serif';
 
 .btn-wd:hover {
   transform: scale(1.02); /* Lille effekt ved hover */
+}
+
+.carousel-control-next, .carousel-control-prev {
+  color: #2A1813;
 }
