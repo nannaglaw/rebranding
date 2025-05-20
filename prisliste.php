@@ -60,7 +60,7 @@ require "settings/init.php";
     </li>
 </ul>
 
-<p class="d-flex justify-content-center p-3 fs-6 text-lb fedkursiv">OBS! Ved aftagning af produkter fra andre behandlere
+<p class="d-flex justify-content-center p-3 fs-6 text-lb fedkursiv text-center">OBS! Ved aftagning af produkter fra andre behandlere
     pålægges et gebyr på min. 50 kr</p>
 
 <div class="position-relative">
