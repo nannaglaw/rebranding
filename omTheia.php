@@ -78,7 +78,7 @@ require "settings/init.php";
 
 <div class="container-fluid bg-wd">
     <div class="row">
-        <div class="col-lg-5 offset-lg-1 col-12 col-md-4 pt-md-5 mt-md-5">
+        <div class="col-lg-5 offset-lg-1 col-12 col-md-4 ">
             <img class="ms-lg-0 ms-md-0 my-5 img-fluid rounded-3" src="img/behandler.webp"
                  alt="Billede af Charlotte Larsen">
         </div>
