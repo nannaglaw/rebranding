@@ -332,3 +332,24 @@ font-family: 'Zodiak-BoldItalic', 'serif';
 .btn-wd:hover {
   transform: scale(1.02); /* Lille effekt ved hover */
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  display: none;
+}
+
+.custom-arrow {
+  font-size: 2rem;
+  color: #664b3c;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.carousel-control-prev .custom-arrow {
+  left: 1rem;
+}
+
+.carousel-control-next .custom-arrow {
+  right: 1rem;
+}

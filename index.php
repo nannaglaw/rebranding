@@ -182,12 +182,12 @@ require "settings/init.php";
     </div>
 
     <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
-        <i class="fa-solid fa-arrow-left custom-arrow" aria-hidden="true"></i>
+        <i class="fa-solid fa-arrow-left fa-2xl" aria-hidden="true" style="color: #664b3c;"></i>
         <span class="visually-hidden">Forrige</span>
     </button>
 
     <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
-        <i class="fa-solid fa-arrow-right custom-arrow" aria-hidden="true"></i>
+        <i class="fa-solid fa-arrow-right fa-2xl" aria-hidden="true" style="color: #664b3c;"></i>
         <span class="visually-hidden">Næste</span>
     </button>
 
