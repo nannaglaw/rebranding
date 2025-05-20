@@ -76,7 +76,7 @@ require "settings/init.php";
             <img class="ms-lg-0 ms-md-0 my-5 img-fluid rounded-3" src="img/behandler.webp" alt="Billede af Charlotte Larsen">
         </div>
         <div class="col-12 col-lg-6 col-md-8">
-            <p class="text-center text-db display-6 pt-lg-5 col-md-8 m-0 fed">Mød
+            <p class="text-center text-db display-6 pt-lg-5 col-md-12 m-0 fed">Mød
                 behandleren</p>
             <p class="text-center text-db display-5 kursiv">Charlotte Larsen</p>
             <div class="col-lg-9 offset-lg-2">
