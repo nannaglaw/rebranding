@@ -80,8 +80,9 @@ require "settings/init.php";
                 faglighed, præcision
                 og æstetisk sans – altid med respekt for dig og dit udtryk.</p>
             <div class="d-flex justify-content-center mb-5 mb-md-0 gap-lg-5 gap-2">
+                <?php include "bookKnap.php"; ?>
                 <?php include "omTheiaKnap.php"; ?>
-                <?php include "kontaktKnap.php"; ?>
+
             </div>
         </div>
     </div>

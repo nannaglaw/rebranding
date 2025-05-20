@@ -98,22 +98,21 @@ require "settings/init.php";
 
 <div class="container">
     <div class="row">
+        <div class="col-12 col-lg-4 px-4">
+            <p class="text-db fs-3 fed mb-2 ">Stempelkort</p>
+            <p class="fs-5 text-lb ">På bagsiden af visitkortet er der et stempelkort. Ved hver behandling modtager du ét stempel.<span class="fed"> Når du har opnået 6 stempler, tilbyder vi 25 % rabat på din 7. behandling.</span></p>
+        </div>
 <div class="col-12 col-lg-4 px-4">
     <p class="text-db fs-3 fed mb-2 pe-5">Aldersgrænse</p>
     <p class="fs-5 text-lb">Alle behandlinger har en aldersgrænse på minimum 15 år, medmindre der er samtykke fra en forældre. </p>
 </div>
         <div class="col-12 col-lg-4 px-4">
-            <p class="text-db fs-3 fed">Afbudspolitik</p>
+            <p class="text-db fs-3 fed mb-2">Afbudspolitik</p>
             <p class="fs-5 text-lb">Afbud skal meldes mindst <span class="fed">24 timer</span> før behandlingstiden starter.
                 Herefter vil der blive opkrævet det fulde beløb for behandlingen.
                 Dette gælder også ved udeblivelse eller hvis man melder afbud to gange inden for 2 uger. </p>
     </div>
-        <div class="col-12 col-lg-4 px-4">
-            <p class="text-db fs-3 fed mb-2 ">Kontakt</p>
-            <p class="fs-5 text-lb ">Du er alt velkommen til at kontakte os, hvis du har yderligere spørgsmål.</p>
-            <a class="link fs-5 text-lb" href="https://www.instagram.com/klinik_s.k.o.n/"><span class="fed">Instagram:</span> @Salon_Theia </a>
-            <p class="fs-5 text-lb "><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
-        </div>
+
     </div>
 </div>
 
