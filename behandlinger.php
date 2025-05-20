@@ -54,7 +54,7 @@ require "settings/init.php";
     </li>
     <li class="nav-item">
         <a class="nav-link navlink active text-lb fs-5 fed border-start border-end border-2 border-lb" aria-current="page"
-           href="#5">Japansk Lifting</a>
+           href="#sec5">Japansk Lifting</a>
     </li>
 </ul>
 
