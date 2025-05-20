@@ -5,32 +5,30 @@
         <div class="row">
             <div class="col-12 col-lg-6 text-center">
                 <div class="ps-lg-5 pb-4">
-                    <p class="text-lb fs-4 fed mb-4">Kontakt</p>
+                    <p class="text-db fs-4 fed mb-4">Kontakt</p>
                     <img src="img/phone.gif" alt="Telefon" style="width:48px;height:48px;">
-                    <p class="p-3"><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
+                    <p class="p-3 text-lb"><span class="fed">Telefon:</span>+45 61 47 73 00 </p>
                     <img src="img/camera.gif" alt="Instagram" style="width:55px;height:55px;">
-                    <p class="pb-3"><span class="fed">Instagram:</span> @Salon_Theia </p>
+                    <p class="pb-3 text-lb"><span class="fed">Instagram:</span> @Salon_Theia </p>
                     <img src="img/location.gif" alt="lokation" style="width:55px;height:55px;">
-                    <p><span class="fed">Adresse:</span> Skovsøgade 9,
+                    <p class="text-lb"><span class="fed">Adresse:</span> Skovsøgade 9,
                         4200 Slagelse</p>
 
                 </div>
             </div>
             <div class="col-12 col-lg-4">
-                <div class="">
-                <p class="text-lb fs-4 fed mb-0 text-center">Åbningstider</p>
-                <p class="text-center">Åbningstiderne kan variere, <br> tjek derfor booking <a class="link-gr fed"
+                <p class="text-db fs-4 fed mb-0 text-center">Åbningstider</p>
+                <p class="text-center text-lb">Åbningstiderne kan variere, <br> tjek derfor booking <a class="link-gr fed"
                                                                       href="https://klinik-skoen.planway.com/">her.</a>
                 </p>
                     <div class="col-lg-9 offset-lg-3 offset-3 offset-md-4">
-                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Mandag:</span> 9.30 - 17.30 </p>
-                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Tirsdag:</span> 9.30 - 17.30</p>
-                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Onsdag:</span> 9.30 - 17.30 </p>
-                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Torsdag:</span> 9.30 - 20.00</p>
-                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Fredag:</span> 9.30 - 17.30</p>
-                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Lørdag:</span> Efter aftale</p>
-                <p class="mb-3 ps-3 ps-md-4"><span class="fed">Søndag:</span> LUKKET</p>
-                </div>
+                <p class="mb-3 ps-3 ps-md-4 text-lb"><span class="fed">Mandag:</span> 9.30 - 17.30 </p>
+                <p class="mb-3 ps-3 ps-md-4 text-lb"><span class="fed">Tirsdag:</span> 9.30 - 17.30</p>
+                <p class="mb-3 ps-3 ps-md-4 text-lb"><span class="fed">Onsdag:</span> 9.30 - 17.30 </p>
+                <p class="mb-3 ps-3 ps-md-4 text-lb"><span class="fed">Torsdag:</span> 9.30 - 20.00</p>
+                <p class="mb-3 ps-3 ps-md-4 text-lb"><span class="fed">Fredag:</span> 9.30 - 17.30</p>
+                <p class="mb-3 ps-3 ps-md-4 text-lb"><span class="fed">Lørdag:</span> Efter aftale</p>
+                <p class="mb-3 ps-3 ps-md-4 text-lb"><span class="fed">Søndag:</span> LUKKET</p>
                 </div>
             </div>
         </div>
