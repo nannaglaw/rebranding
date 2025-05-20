@@ -19,6 +19,7 @@ require "settings/init.php";
     <link href="css/styles.css" rel="stylesheet">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://kit.fontawesome.com/056ca3e665.js" crossorigin="anonymous"></script>
 </head>
 
 <body class="bg-wh">
@@ -120,7 +121,7 @@ require "settings/init.php";
                         style="width:75px;height:75px;">
                 <p class="text text-db fs-3">Vipper</p></a>
         </div>
-        <div class="d-lg-grid col-lg-4 col-12 mx-auto text-center pt-5">
+        <div class="d-lg-grid col-lg-4 col-12 mx-auto text-center pt-5 pb-5">
             <?php include "prislisteKnap.php"; ?>
 
         </div>
@@ -128,48 +129,48 @@ require "settings/init.php";
 </div>
 
 <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
-    <div class="container">
+    <div class="container cBorder">
         <div class="row justify-content-center">
             <div class="col-12 col-md-10 col-lg-8">
-                <div class="carousel-inner text-center text-db mt-3">
+                <div class="carousel-inner text-center text-db mt-4">
 
                     <div class="carousel-item active">
-                        <p class="fs-6 fst-italic mt-4">Det er svært at finde en skønhedssalon i Slagelse, der både er billig
+                        <p class="fs-6 fst-italic mt-5">Det er svært at finde en skønhedssalon i Slagelse, der både er billig
                             og professionel – men THEIA leverer virkelig! Jeg fik lavet negle til en super fair pris, og
                             kvaliteten var helt i top.</p>
                         <p>– Sara R.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-4">Hvis du leder efter en skønhedssalon i Slagelse, så skal du vælge
+                        <p class="fs-6 fst-italic mt-5">Hvis du leder efter en skønhedssalon i Slagelse, så skal du vælge
                             THEIA. Jeg fik lavet både vipper og bryn og følte mig som en dronning. Super service og gode
                             priser!</p>
                         <p>– Matilda V.F.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-4">Jeg troede ærligt ikke, det var muligt at få så billig behandling i
+                        <p class="fs-6 fst-italic mt-5">Jeg troede ærligt ikke, det var muligt at få så billig behandling i
                             Slagelse, og stadig føle, man er på et spaophold! THEIA er min nye favorit – især til bryn
                             og negle.</p>
                         <p>– Cecilie M.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-4">Elsker stemningen hos THEIA – roligt, pænt og hyggeligt. Det er klart
+                        <p class="fs-6 fst-italic mt-5">Elsker stemningen hos THEIA – roligt, pænt og hyggeligt. Det er klart
                             Slagelses bedste sted til negle og vipper. Og det bedste? Det er billigt uden at gå på
                             kompromis med kvaliteten!</p>
                         <p>– Emma V.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-4">Jeg fik lavet gele-negle i Slagelse, og det er det bedste resultat,
+                        <p class="fs-6 fst-italic mt-5">Jeg fik lavet gele-negle i Slagelse, og det er det bedste resultat,
                             jeg nogensinde har fået. THEIA tilbyder billige behandlinger, men man føler sig stadig
                             luksuriøst behandlet. Anbefales varmt!</p>
                         <p>– Line A.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-4">Alt spiller her – gode produkter, søde behandlere og fair priser. Jeg
+                        <p class="fs-6 fst-italic mt-5">Alt spiller her – gode produkter, søde behandlere og fair priser. Jeg
                             fik lavet lash lift og bryn, og resultatet var fantastisk. Kan varmt anbefale til andre i
                             Slagelse og omegn.</p>
                         <p>– Isabella F.</p>
@@ -181,13 +182,15 @@ require "settings/init.php";
     </div>
 
     <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <i class="fa-solid fa-arrow-left custom-arrow" aria-hidden="true"></i>
         <span class="visually-hidden">Forrige</span>
     </button>
+
     <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <i class="fa-solid fa-arrow-right custom-arrow" aria-hidden="true"></i>
         <span class="visually-hidden">Næste</span>
     </button>
+
 </div>
 
 
