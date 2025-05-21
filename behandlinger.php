@@ -849,7 +849,7 @@ require "settings/init.php";
                         <div class="col-12 col-lg-6 offset-lg-3 mt-lg-4 mt-md-4 mt-4">
                             <div class="accordion custom-accordion" id="accordionTwentytree">
                                 <div class="accordion-item border border-wd rounded shadow-sm">
-                                    <h2 class="accordion-header " id="headingTwentytree">
+                                    <h2 class="accordion-header" id="headingTwentytree">
                                         <button class="accordion-button collapsed text-db fs-4" type="button"
                                                 data-bs-toggle="collapse"
                                                 data-bs-target="#collapseTwentytree" aria-expanded="false"
