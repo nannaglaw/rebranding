@@ -34,7 +34,7 @@ require "settings/init.php";
 
 </div>
 
-<p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3 text-overlay">Behandlinger</p>
+<h1 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3 text-overlay">Behandlinger</h1>
 <ul class="nav justify-content-center pt-3 border-start pb-5">
     <li class="nav-item">
         <a class="nav-link navlink active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow-
@@ -65,7 +65,7 @@ require "settings/init.php";
 </div>
 
 <div class="mt-3 text-overlay" id="sec1">
-    <p class="fed text-lb text-center fs-2 my-lg-2">Brow- & Lash Lift</p>
+    <h2 class="fed text-lb text-center fs-2 my-lg-2">Brow- & Lash Lift</h2>
     <div class="container">
         <div class="row">
             <!-- Accordion 1 -->
@@ -170,7 +170,7 @@ require "settings/init.php";
 </div>
 
 <div class="mt-5 text-overlay" id="sec2">
-    <p class="fed text-lb text-center fs-2 my-2">Vipper</p>
+    <h2 class="fed text-lb text-center fs-2 my-2">Vipper</h2>
     <div class="container">
         <div class="row">
             <!-- Accordion 4 -->
@@ -509,7 +509,7 @@ require "settings/init.php";
 </div>
 
 <div class="mt-5 text-overlay" id="sec3">
-    <p class="fed text-lb text-center fs-2 my-2">Bryn</p>
+    <h2 class="fed text-lb text-center fs-2 my-2">Bryn</h2>
     <div class="container">
         <div class="row">
             <!-- Accordion 13 -->
@@ -584,7 +584,7 @@ require "settings/init.php";
 </div>
 
 <div class="mt-5 text-overlay" id="sec4">
-    <p class="fed text-lb text-center fs-2 my-2">Manicure & Pedicure</p>
+    <h2 class="fed text-lb text-center fs-2 my-2">Manicure & Pedicure</h2>
     <div class="container">
         <div class="row">
             <!-- Accordion 15 -->
@@ -842,7 +842,7 @@ require "settings/init.php";
     <img src="img/prisliste4.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 </div>
             <div class="mt-5 text-overlay" id="sec5">
-                <p class="fed text-lb text-center fs-2 my-2">Japansk Lifting</p>
+                <h2 class="fed text-lb text-center fs-2 my-2">Japansk Lifting</h2>
                 <div class="container">
                     <div class="row">
                         <!-- Accordion 23 -->

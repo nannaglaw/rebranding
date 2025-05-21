@@ -38,7 +38,7 @@ require "settings/init.php";
     <div class="row">
         <div class="justify-content-center align-items-center text-overlay">
 
-            <p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3">Om Skønhedssalon THEIA</p>
+            <h1 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3">Om Skønhedssalon THEIA</h1>
 
             <div class="col-12 col-lg-10 col-md-10 fs-5 text-db">
                 <p class="col-12 offset-lg-4 col-lg-7 offset-md-3 col-md-10 fs-5 text-lb">Vi startede vores rejse i 2022
@@ -83,8 +83,8 @@ require "settings/init.php";
                  alt="Billede af Charlotte Larsen">
         </div>
         <div class="col-12 col-lg-6 col-md-8">
-            <p class="text-center text-db display-6 pt-lg-5 col-md-12 m-0 fed">Mød
-                behandleren</p>
+            <h2 class="text-center text-db display-6 pt-lg-5 col-md-12 m-0 fed">Mød
+                behandleren</h2>
             <p class="text-center text-db display-5 kursiv">Charlotte Larsen</p>
             <div class="col-lg-9 offset-lg-2">
                 <p class="fs-5 text-lb px-4 py-lg-2 text-start">Bag <span style="font-family:'Zodiak-Bold' ">Skønhedssalon THEIA</span>
@@ -175,24 +175,24 @@ require "settings/init.php";
 
 
 
-<p class="text text-db ps-lg-5 display-4 text-center mt-5 mb-5">Betingelser</p>
+<h2 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-5">Betingelser</h2>
 
 <div class="container">
     <div class="row">
         <div class="col-12 col-lg-4 px-4">
-            <p class="text-db fs-3 fed mb-2 ">Stempelkort</p>
+            <h3 class="text-db fs-3 fed mb-2 ">Stempelkort</h3>
             <p class="fs-5 text-lb ">På bagsiden af visitkortet er der et stempelkort. Ved hver behandling modtager du
                 ét stempel.<span
                         class="fed"> Når du har opnået 6 stempler, tilbyder vi 25 % rabat på din 7. behandling.</span>
             </p>
         </div>
         <div class="col-12 col-lg-4 px-4">
-            <p class="text-db fs-3 fed mb-2 pe-5">Aldersgrænse</p>
+            <h3 class="text-db fs-3 fed mb-2 pe-5">Aldersgrænse</h3>
             <p class="fs-5 text-lb">Alle behandlinger har en aldersgrænse på minimum 15 år, medmindre der er samtykke
                 fra en forældre. </p>
         </div>
         <div class="col-12 col-lg-4 px-4">
-            <p class="text-db fs-3 fed mb-2">Afbudspolitik</p>
+            <h3 class="text-db fs-3 fed mb-2">Afbudspolitik</h3>
             <p class="fs-5 text-lb">Afbud skal meldes mindst <span class="fed">24 timer</span> før behandlingstiden
                 starter.
                 Herefter vil der blive opkrævet det fulde beløb for behandlingen.

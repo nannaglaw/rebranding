@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-12 col-lg-6 text-center">
                 <div class="ps-lg-5 pb-4">
-                    <p class="text-db fs-4 fed mb-4 pb-3">Kontakt</p>
+                    <h2 class="text-db fs-4 fed mb-4 pb-3">Kontakt</h2>
                     <a href="#" data-bs-toggle="modal" data-bs-target="#kontaktModal" class="text-decoration-none">
                         <img src="img/phone.gif" alt="Telefon" style="width:48px;height:48px;">
                         <p class="p-3 text-lb mb-0"><span class="fed">Telefon:</span> +45 61 47 73 00</p>
@@ -23,7 +23,7 @@
                 </div>
             </div>
             <div class="col-12 col-lg-4">
-                <p class="text-db fs-4 fed mb-0 text-center">Åbningstider</p>
+                <h2 class="text-db fs-4 fed mb-0 text-center">Åbningstider</h2>
                 <p class="text-center text-lb">Åbningstiderne kan variere, <br> tjek derfor booking <a class="link-gr fed"
                                                                       href="https://klinik-skoen.planway.com/">her.</a>
                 </p>
