@@ -33,8 +33,11 @@ require "settings/init.php";
     <img src="img/prisliste4.webp" class="d-block img-fluid telefon-bg justify-content-center" alt="monstera blad">
 
 </div>
-
-<h1 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3 text-overlay">Behandlinger</h1>
+<div class="container">
+<h1 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3 text-overlay">Om behandlingerne</h1>
+<p class="fs-5 text-center text-lb">Her kan du læse mere om den ønskede behandling. Du finder information om, <br> hvordan behandlingerne udføres,
+    hvor lang tid de tager, og hvor længe resultaterne holder.</p>
+</div>
 <ul class="nav justify-content-center pt-3 border-start pb-5">
     <li class="nav-item">
         <a class="nav-link navlink active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow-
