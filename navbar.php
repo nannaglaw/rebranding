@@ -15,7 +15,7 @@
                 <li class="nav-item px-1 mx-5 ">
                     <a class="nav-link text-lb fs-5 " href="behandlinger.php">OM BEHANDLINGERNE</a>
                 </li>
-                <li class="nav-item ps-5 pe-3 mx-5">
+                <li class="nav-item ps-lg-5 pe-lg-3 mx-5">
                     <a class="nav-link text-lb fs-5 " href="prisliste.php">PRISLISTE</a>
                 </li>
                 <li class="nav-item px-5 mx-5">
