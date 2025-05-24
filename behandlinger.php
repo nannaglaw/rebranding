@@ -34,11 +34,14 @@ require "settings/init.php";
 
 </div>
 <div class="container">
-<h1 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3 text-overlay">Om behandlingerne</h1>
-<p class="fs-5 text-center text-lb">Her kan du læse mere om den ønskede behandling. Du finder information om, <br> hvordan behandlingerne udføres,
+<h1 class="text text-db display-4 text-center mt-5 mb-3 text-overlay">Om behandlingerne</h1>
+    <p class="fs-6 text-center text-lb fedkursiv">Behandlinger kræver, at man er mindst 15 år, medmindre der gives forældresamtykke.</p>
+    <p class="fs-5 text-center text-lb">Her kan du læse mere om den ønskede behandling. <br>
+    Du finder information om, hvordan behandlingerne udføres, <br>
     hvor lang tid de tager, og hvor længe resultaterne holder.</p>
+
 </div>
-<ul class="nav justify-content-center pt-3 border-start pb-5">
+<ul class="nav justify-content-center pt-3 border-start pb-3">
     <li class="nav-item">
         <a class="nav-link navlink active text-lb fs-5 fed border-start border-2 border-lb" aria-current="page" href="#sec1">Brow-
             & Lash Lift</a>
