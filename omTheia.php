@@ -34,42 +34,48 @@ require "settings/init.php";
 
 </div>
 
-<div class="container">
-    <div class="row">
-        <div class="justify-content-center align-items-center text-overlay">
+    <div class="container">
+        <div class="row justify-content-center text-overlay">
+            <h1 class="text text-db display-4 text-center mt-5 mb-4">Om Skønhedssalon THEIA</h1>
 
-            <h1 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-3">Om Skønhedssalon THEIA</h1>
+            <div class="row fs-5 text-db justify-content-center">
+                <!-- Venstre spalte -->
+                <div class="col-12 col-lg-5 px-4 px-lg-5 text-lb">
+                    <p>
+                        Vi startede vores rejse i 2022 under navnet <span class="fw-semibold">Klinik S.K.Ø.N</span>, og vi er stolte af den udvikling, vi har gennemgået siden da.
+                    </p>
+                    <p>
+                        Som vores univers voksede, blev det tid til forandring – nyt navn, nye rammer, men samme passion. Vi har skiftet navn fra <span class="fw-semibold">Klinik S.K.Ø.N</span> til Skønhedssalon THEIA.
+                    </p>
+                    <p>Vi valgte navnet THEIA, inspireret af den græske gudinde for lys, skønhed og glans – et navn der også betyder <span class="kursiv">diva</span> på latin. For os symboliserer det præcis dét, vi ønsker at give vores kunder:
+                        en oplevelse af indre og ydre glød.</p>
 
-            <div class="col-12 col-lg-10 col-md-10 fs-5 text-db">
-                <p class="col-12 offset-lg-4 col-lg-7 offset-md-3 col-md-10 fs-5 text-lb">Vi startede vores rejse i 2022
-                    under navnet <span
-                            class="fw-semibold">Klinik S.K.Ø.N</span>, og vi er stolte af den udvikling, vi har
-                    gennemgået
-                    siden da. I takt med at vi voksede, blev det tid til forandring: nyt navn, nye rammer, samme
-                    passion.
+                </div>
+
+                <!-- Højre spalte -->
+                <div class="col-12 col-lg-5 px-4 px-lg-5 text-lb">
+                    <p>
+                        Vi er flyttet lige ved siden af den gamle adresse og har nu lokale på
+                        <a class="link-gr fw-medium" href="https://www.google.com/maps/place/Skovs%C3%B8gade+9,+4200+Slagelse/">
+                            Skovsøgade 9, 4200 Slagelse
+                        </a>
+                    </p>
+                    <p>
+                        Her har vi skabt en endnu mere indbydende og afslappende atmosfære, hvor du kan forkæle dig selv og finde ro fra hverdagens travlhed.
+                    </p>
+                    <p>
+                        Vores mission, som hos <span class="fw-semibold">Klinik S.K.Ø.N</span>, er fortsat den samme – at give dig en <span class="fst-italic">personlig, professionel og skøn oplevelse</span> hver gang du besøger os.
+                    </p>
+
+                </div>
+                <p class="fw-semibold fs-4 mb-4 text-center">
+                    Vi glæder os til at byde dig velkommen i vores nye omgivelser!
                 </p>
-                <p class="col-12 offset-lg-4 col-lg-7 offset-md-3 col-md-10 fs-5 text-lb"> Vi har skiftet navn fra <span
-                            class="fw-semibold">Klinik S.K.Ø.N</span> til
-                    Skønhedssalon THEIA og er flyttet lige ind ved siden af den gamle adresse, så nu har vi lokale på
-                    <a class="link-gr fw-medium"
-                       href="https://www.google.com/maps/place/Skovs%C3%B8gade+9,+4200+Slagelse/@55.4032068,11.3544408,17z/data=!3m1!4b1!4m6!3m5!1s0x464d617c0ddf17b5:0x4e6fdabb9a326701!8m2!3d55.4032038!4d11.3570211!16s%2Fg%2F11c19xck96?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D">
-                        Skovsøgade 9, 4200 Slagelse. </a>
-                    Her har vi skabt en endnu mere indbydende og afslappende atmosfære, hvor du kan forkæle dig selv og
-                    finde ro fra hverdagens travlhed.</p>
-                <p class="col-12 offset-lg-4 col-lg-7 offset-md-3 col-md-10 fs-5 text-lb">Vores mission, som hos <span
-                            class="fw-semibold">Klinik S.K.Ø.N</span>, er fortsat
-                    den
-                    samme – at give dig en <span class="fst-italic">personlig, professionel og skøn oplevelse</span>
-                    hver
-                    gang du besøger os.
-                <p class="text-center text-lb fw-semibold fs-4 col-md-12 col-lg-9 offset-lg-3 offset-md-2">Vi glæder os
-                    til at byde dig velkommen i vores nye
-                    omgivelser!</p>
             </div>
         </div>
     </div>
 
-    <div class="justify-content-center d-flex gap-4 pb-4">
+    <div class="justify-content-center d-flex gap-4 pb-4 mb-3">
         <?php include "bookKnap.php"; ?>
         <?php include "behandlingKnap.php"; ?>
     </div>
