@@ -105,56 +105,52 @@ require "settings/init.php";
 
 <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="container cuBorder mt-5">
+        <h2 class="text text-lb m-0 fw-medium display-5 text-center pt-5 text-overlay">Udtalelser</h2>
+
         <div class="row justify-content-center">
             <div class="col-9 col-md-10 col-lg-8">
                 <div class="carousel-inner text-center text-db mt-4">
 
                     <div class="carousel-item active">
-                        <p class="fs-6 fst-italic mt-5">Det er svært at finde en skønhedssalon i Slagelse, der både er
-                            billig
-                            og professionel – men THEIA leverer virkelig! Jeg fik lavet negle til en super fair pris, og
-                            kvaliteten var helt i top.</p>
-                        <p class="mb-5">– Sara R.</p>
+                        <p class="fs-5 fst-italic"><span class="fedkursiv">Billig og professionel</span>
+                            skønhedssalon i Slagelse! Mine negle blev
+                            perfekte – super pris og høj kvalitet.</p>
+                        <p class="mb-5 fs-5">– Sara R.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-5 ">Hvis du leder efter en skønhedssalon i Slagelse, så skal du
-                            vælge
-                            THEIA. Jeg fik lavet både vipper og bryn og følte mig som en dronning. Super service og gode
-                            priser!</p>
-                        <p class="mb-5">– Matilda V.F.</p>
+                        <p class="fs-5 fst-italic">THEIA i Slagelse er mit valg til vipper og bryn.<span
+                                    class="fedkursiv"> Fantastisk
+                                    service og gode priser!</span></p>
+                        <p class="mb-5 fs-5">– Matilda V.F.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-5 ">Jeg troede ærligt ikke, det var muligt at få så billig
-                            behandling i
-                            Slagelse, og stadig føle, man er på et spaophold! THEIA er min nye favorit – især til bryn
-                            og negle.</p>
-                        <p class="mb-5">– Cecilie M.</p>
+                        <p class="fs-5 fst-italic">THEIA er en <span
+                                    class="fedkursiv">ægte selvforkælelses oplevelse</span>
+                            i Slagelse – billigt, luksuriøst og
+                            perfekt til negle og bryn.</p>
+                        <p class="mb-5 fs-5">– Cecilie M.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-5">Elsker stemningen hos THEIA – roligt, pænt og hyggeligt. Det er
-                            klart
-                            Slagelses bedste sted til negle og vipper. Og det bedste? Det er billigt uden at gå på
-                            kompromis med kvaliteten!</p>
-                        <p class="mb-5">– Emma V.</p>
+                        <p class="fs-5 fst-italic"><span class="fedkursiv">Rolig og hyggelig</span> skønhedssalon i
+                            Slagelse. Elsker deres arbejde
+                            med vipper og negle – billigt og godt!</p>
+                        <p class="mb-5 fs-5">– Emma V.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-5">Jeg fik lavet gele-negle i Slagelse, og det er det bedste
-                            resultat,
-                            jeg nogensinde har fået. THEIA tilbyder billige behandlinger, men man føler sig stadig
-                            luksuriøst behandlet. Anbefales varmt!</p>
-                        <p class="mb-5">– Line A.</p>
+                        <p class="fs-5 fst-italic">Fik lavet gele-negle i Slagelse – <span class="fedkursiv">bedste resultat nogensinde.</span>
+                            THEIA er både billig og luksuriøs.</p>
+                        <p class="mb-5 fs-5">– Line A.</p>
                     </div>
 
                     <div class="carousel-item">
-                        <p class="fs-6 fst-italic mt-5">Alt spiller her – gode produkter, søde behandlere og fair
-                            priser. Jeg
-                            fik lavet lash lift og bryn, og resultatet var fantastisk. Kan varmt anbefale til andre i
-                            Slagelse og omegn.</p>
-                        <p class="mb-5">– Isabella F.</p>
+                        <p class="fs-5 fst-italic"><span class="fedkursiv">Top kvalitet på lash lift og bryn</span>
+                            hos THEIA i Slagelse. Rimelige
+                            priser og skøn service!</p>
+                        <p class="mb-5 fs-5">– Isabella F.</p>
                     </div>
 
                 </div>
@@ -172,7 +168,6 @@ require "settings/init.php";
         <span class="visually-hidden">Næste</span>
     </button>
 </div>
-
 
 
 <h2 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-5">Yderligere informationer</h2>

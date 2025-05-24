@@ -139,39 +139,44 @@ require "settings/init.php";
                     <div class="carousel-inner text-center text-db mt-4">
 
                         <div class="carousel-item active">
-                            <p class="fs-5 fst-italic"><span class="fedkursiv">Billig og professionel</span> skønhedssalon i Slagelse! Mine negle blev
+                            <p class="fs-5 fst-italic"><span class="fedkursiv">Billig og professionel</span>
+                                skønhedssalon i Slagelse! Mine negle blev
                                 perfekte – super pris og høj kvalitet.</p>
-                            <p class="mb-0">– Sara R.</p>
+                            <p class="mb-0 fs-5">– Sara R.</p>
                         </div>
 
                         <div class="carousel-item">
-                            <p class="fs-5 fst-italic">THEIA i Slagelse er mit valg til vipper og bryn.<span class="fedkursiv"> Fantastisk
+                            <p class="fs-5 fst-italic">THEIA i Slagelse er mit valg til vipper og bryn.<span
+                                        class="fedkursiv"> Fantastisk
                                     service og gode priser!</span></p>
-                            <p class="mb-0">– Matilda V.F.</p>
+                            <p class="mb-0 fs-5">– Matilda V.F.</p>
                         </div>
 
                         <div class="carousel-item">
-                            <p class="fs-5 fst-italic">THEIA er en <span class="fedkursiv">ægte selvforkælelses oplevelse</span> i Slagelse – billigt, luksuriøst og
+                            <p class="fs-5 fst-italic">THEIA er en <span class="fedkursiv">ægte selvforkælelses oplevelse</span>
+                                i Slagelse – billigt, luksuriøst og
                                 perfekt til negle og bryn.</p>
-                            <p class="mb-0">– Cecilie M.</p>
+                            <p class="mb-0 fs-5">– Cecilie M.</p>
                         </div>
 
                         <div class="carousel-item">
-                            <p class="fs-5 fst-italic"><span class="fedkursiv">Rolig og hyggelig</span> skønhedssalon i Slagelse. Elsker deres arbejde
+                            <p class="fs-5 fst-italic"><span class="fedkursiv">Rolig og hyggelig</span> skønhedssalon i
+                                Slagelse. Elsker deres arbejde
                                 med vipper og negle – billigt og godt!</p>
-                            <p class="mb-0">– Emma V.</p>
+                            <p class="mb-0 fs-5">– Emma V.</p>
                         </div>
 
                         <div class="carousel-item">
                             <p class="fs-5 fst-italic">Fik lavet gele-negle i Slagelse – <span class="fedkursiv">bedste resultat nogensinde.</span>
                                 THEIA er både billig og luksuriøs.</p>
-                            <p class="mb-0">– Line A.</p>
+                            <p class="mb-0 fs-5">– Line A.</p>
                         </div>
 
                         <div class="carousel-item">
-                            <p class="fs-5 fst-italic"><span class="fedkursiv">Top kvalitet på lash lift og bryn</span> hos THEIA i Slagelse. Rimelige
+                            <p class="fs-5 fst-italic"><span class="fedkursiv">Top kvalitet på lash lift og bryn</span>
+                                hos THEIA i Slagelse. Rimelige
                                 priser og skøn service!</p>
-                            <p class="mb-0">– Isabella F.</p>
+                            <p class="mb-0 fs-5">– Isabella F.</p>
                         </div>
 
 
