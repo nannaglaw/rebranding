@@ -175,14 +175,13 @@ require "settings/init.php";
     </button>
 </div>
 
-
+<div class="container-fluid bg-wd mt-5">
+    <div class="container">
+        <div class="row">
 <h2 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-5">Yderligere informationer</h2>
-
-<div class="container">
-    <div class="row">
         <div class="col-12 col-lg-4 px-4">
             <h3 class="text-db fs-3 fed mb-2 ">Stempelkort</h3>
-            <p class="fs-5 text-lb ">På bagsiden af visitkortet er der et stempelkort. Ved hver behandling modtager du
+            <p class="fs-5 text-lb mb-5">På bagsiden af visitkortet er der et stempelkort. Ved hver behandling modtager du
                 ét stempel.<span
                         class="fed"> Når du har opnået 6 stempler, tilbyder vi 25 % rabat på din 7. behandling.</span>
             </p>
@@ -194,12 +193,12 @@ require "settings/init.php";
         </div>
         <div class="col-12 col-lg-4 px-4">
             <h3 class="text-db fs-3 fed mb-2">Afbudspolitik</h3>
-            <p class="fs-5 text-lb">Afbud skal meldes mindst <span class="fed">24 timer</span> før behandlingstiden
+            <p class="fs-5 text-lb mb-5">Afbud skal meldes mindst <span class="fed">24 timer</span> før behandlingstiden
                 starter.
                 Herefter vil der blive opkrævet det fulde beløb for behandlingen.
                 Dette gælder også ved udeblivelse eller hvis man melder afbud to gange inden for 2 uger. </p>
         </div>
-
+    </div>
     </div>
 </div>
 
