@@ -1,7 +1,7 @@
 
 
 <!-- kontaktKnap.php -->
-<button type="button" class="btn btn-outline-db rounded-4 text-lb btn-lg fw-medium px-lg-5 py-lg-2 px-5" style="font-family: Zodiak"  data-bs-toggle="modal" data-bs-target="#kontaktModal">
+<button type="button" class="btn btn-outline-db rounded-4 text-lb btn-lg border-2 fw-semibold px-lg-5 py-lg-2 px-5" style="font-family: Zodiak"  data-bs-toggle="modal" data-bs-target="#kontaktModal">
     Kontakt
 </button>
 
@@ -19,7 +19,7 @@
                 <p><span class="fw-medium">Instagram:</span> @Salon_Theia</p>
             </div>
             <div class="modal-footer bg-wh">
-                <button type="button" class="btn btn-gr btn-lg fw-medium text-wh rounded-4 border-2 px-5 py-2" style="font-family: Zodiak" data-bs-dismiss="modal">Luk</button>
+                <button type="button" class="btn btn-gr btn-lg fw-semibold text-wh rounded-4 border-2 px-5 py-2" style="font-family: Zodiak" data-bs-dismiss="modal">Luk</button>
             </div>
         </div>
     </div>
