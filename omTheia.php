@@ -175,7 +175,7 @@ require "settings/init.php";
 
 
 
-<h2 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-5">Betingelser</h2>
+<h2 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-5">Yderligere informationer</h2>
 
 <div class="container">
     <div class="row">
