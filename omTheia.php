@@ -180,15 +180,15 @@ require "settings/init.php";
         <div class="row">
 <h2 class="text text-db ps-lg-5 display-4 text-center mt-5 mb-5">Yderligere informationer</h2>
         <div class="col-12 col-lg-4 px-4">
-            <h3 class="text-db fs-3 fed mb-2 ">Stempelkort</h3>
+            <h3 class="text-db fs-3 fed mb-2 ">Rabat</h3>
             <p class="fs-5 text-lb mb-5">På bagsiden af visitkortet er der et stempelkort. Ved hver behandling modtager du
-                ét stempel.<span
-                        class="fed"> Når du har opnået 6 stempler, tilbyder vi 25 % rabat på din 7. behandling.</span>
+                ét stempel. Når du har opnået 6 stempler, tilbyder vi <span
+                            class="fed">25 % rabat på din 7. behandling.</span> <br>Derudover får studerende <span class="fed">12% rabat</span>.
             </p>
         </div>
         <div class="col-12 col-lg-4 px-4">
             <h3 class="text-db fs-3 fed mb-2 pe-5">Aldersgrænse</h3>
-            <p class="fs-5 text-lb">Alle behandlinger har en aldersgrænse på minimum 15 år, medmindre der er samtykke
+            <p class="fs-5 text-lb">Alle behandlinger har en aldersgrænse på <span class="fed">minimum 15 år</span>, medmindre der er samtykke
                 fra en forældre. </p>
         </div>
         <div class="col-12 col-lg-4 px-4">
