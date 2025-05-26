@@ -37,7 +37,7 @@
             <h1 class="text text-lb m-0 extra display-2">Skønhedssalon THEIA</h1>
             <p class="text text-lb m-0 kursiv display-3">– din oase af skønhed og ro</p>
 
-            <p class="text-overlay text-db mt-3 fs-3" style="font-family: Zodiak">
+            <p class="text-overlay text-db mt-3 fs-3">
                 Eksklusive behandlinger i rolige omgivelser – <br> negle, vipper & bryn
             </p>
         </div>
