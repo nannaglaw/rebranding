@@ -26,11 +26,11 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 // 5. Du kan lave styling her...
 
 
-
 @font-face {
   font-family: 'Zodiak-Thin';
   src: url('../fonts/Zodiak-Thin.woff2') format('woff2'),
-  url('../fonts/Zodiak-Thin.woff') format('woff');
+  url('../fonts/Zodiak-Thin.woff') format('woff'),
+  url('../fonts/Zodiak-Thin.ttf') format('truetype');
   font-weight: 100;
   font-display: swap;
   font-style: normal;
@@ -38,7 +38,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-ThinItalic';
   src: url('../fonts/Zodiak-ThinItalic.woff2') format('woff2'),
-  url('../fonts/Zodiak-ThinItalic.woff') format('woff');
+  url('../fonts/Zodiak-ThinItalic.woff') format('woff'),
+  url('../fonts/Zodiak-ThinItalic.ttf') format('truetype');
   font-weight: 100;
   font-display: swap;
   font-style: italic;
@@ -46,7 +47,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-Light';
   src: url('../fonts/Zodiak-Light.woff2') format('woff2'),
-  url('../fonts/Zodiak-Light.woff') format('woff');
+  url('../fonts/Zodiak-Light.woff') format('woff'),
+  url('../fonts/Zodiak-Light.ttf') format('truetype');
   font-weight: 300;
   font-display: swap;
   font-style: normal;
@@ -54,7 +56,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-LightItalic';
   src: url('../fonts/Zodiak-LightItalic.woff2') format('woff2'),
-  url('../fonts/Zodiak-LightItalic.woff') format('woff');
+  url('../fonts/Zodiak-LightItalic.woff') format('woff'),
+  url('../fonts/Zodiak-LightItalic.ttf') format('truetype');
   font-weight: 300;
   font-display: swap;
   font-style: italic;
@@ -62,7 +65,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-Regular';
   src: url('../fonts/Zodiak-Regular.woff2') format('woff2'),
-  url('../fonts/Zodiak-Regular.woff') format('woff');
+  url('../fonts/Zodiak-Regular.woff') format('woff'),
+  url('../fonts/Zodiak-Regular.ttf') format('truetype');
   font-weight: 400;
   font-display: swap;
   font-style: normal;
@@ -70,7 +74,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-Italic';
   src: url('../fonts/Zodiak-Italic.woff2') format('woff2'),
-  url('../fonts/Zodiak-Italic.woff') format('woff');
+  url('../fonts/Zodiak-Italic.woff') format('woff'),
+  url('../fonts/Zodiak-Italic.ttf') format('truetype');
   font-weight: 400;
   font-display: swap;
   font-style: italic;
@@ -78,7 +83,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-Bold';
   src: url('../fonts/Zodiak-Bold.woff2') format('woff2'),
-  url('../fonts/Zodiak-Bold.woff') format('woff');
+  url('../fonts/Zodiak-Bold.woff') format('woff'),
+  url('../fonts/Zodiak-Bold.ttf') format('truetype');
   font-weight: 700;
   font-display: swap;
   font-style: normal;
@@ -86,7 +92,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-BoldItalic';
   src: url('../fonts/Zodiak-BoldItalic.woff2') format('woff2'),
-  url('../fonts/Zodiak-BoldItalic.woff') format('woff');
+  url('../fonts/Zodiak-BoldItalic.woff') format('woff'),
+  url('../fonts/Zodiak-BoldItalic.ttf') format('truetype');
   font-weight: 700;
   font-display: swap;
   font-style: italic;
@@ -94,7 +101,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-Extrabold';
   src: url('../fonts/Zodiak-Extrabold.woff2') format('woff2'),
-  url('../fonts/Zodiak-Extrabold.woff') format('woff');
+  url('../fonts/Zodiak-Extrabold.woff') format('woff'),
+  url('../fonts/Zodiak-Extrabold.ttf') format('truetype');
   font-weight: 800;
   font-display: swap;
   font-style: normal;
@@ -102,7 +110,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-ExtraboldItalic';
   src: url('../fonts/Zodiak-ExtraboldItalic.woff2') format('woff2'),
-  url('../fonts/Zodiak-ExtraboldItalic.woff') format('woff');
+  url('../fonts/Zodiak-ExtraboldItalic.woff') format('woff'),
+  url('../fonts/Zodiak-ExtraboldItalic.ttf') format('truetype');
   font-weight: 800;
   font-display: swap;
   font-style: italic;
@@ -110,7 +119,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-Black';
   src: url('../fonts/Zodiak-Black.woff2') format('woff2'),
-  url('../fonts/Zodiak-Black.woff') format('woff');
+  url('../fonts/Zodiak-Black.woff') format('woff'),
+  url('../fonts/Zodiak-Black.ttf') format('truetype');
   font-weight: 900;
   font-display: swap;
   font-style: normal;
@@ -118,7 +128,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @font-face {
   font-family: 'Zodiak-BlackItalic';
   src: url('../fonts/Zodiak-BlackItalic.woff2') format('woff2'),
-  url('../fonts/Zodiak-BlackItalic.woff') format('woff');
+  url('../fonts/Zodiak-BlackItalic.woff') format('woff'),
+  url('../fonts/Zodiak-BlackItalic.ttf') format('truetype');
   font-weight: 900;
   font-display: swap;
   font-style: italic;
