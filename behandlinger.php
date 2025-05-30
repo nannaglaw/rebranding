@@ -6,7 +6,7 @@
 
     <title>Skønhedssalon Theia</title>
 
-    <meta name="robots" content="All">
+    <meta name="robots" content="none">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
