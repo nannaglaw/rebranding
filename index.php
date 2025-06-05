@@ -47,7 +47,9 @@
 <div class="container mt-3 mb-5 pb-2">
     <div class="row justify-content-center">
         <div class="col-12 col-md-6 d-flex justify-content-center mb-3 mb-md-0 gap-5">
+
             <?php include "bookKnap.php"; ?>
+
             <?php include "behandlingKnap.php"; ?>
         </div>
     </div>
